@@ -1,36 +1,164 @@
 {
   "author_info": {
     "Ali et al., 2017": {
-      "n": 5
+      "journal": "Front Plant Sci (20) 1057 (2017)",
+      "n": 5,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/28676811",
+      "title": "Yellow Rust Epidemics Worldwide Were Caused by Pathogen Races from Divergent Genetic Lineages"
     },
     "Bueno-Sancho et al., 2017": {
-      "n": 136
+      "journal": "Genome Biol Evol (12), 3282-3296 (2017)",
+      "n": 137,
+      "paper_url": "https://academic.oup.com/gbe/article/9/12/3282/4644453",
+      "title": "Pathogenomic Analysis of Wheat Yellow Rust Lineages Detects Seasonal Variation and Host Specificity"
     },
     "Hovm\u00f8ller et al., 2016": {
-      "n": 4
+      "journal": "Plant Pathology (3) 402-411 (2016)",
+      "n": 4,
+      "paper_url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ppa.12433",
+      "title": "Replacement of the European wheat yellow rust population by new races from the centre of diversity in the near_Himalayan region"
     },
     "Hubbard et al., 2015": {
-      "n": 64
+      "journal": "Genome Biol. (1): 23 (2015)",
+      "n": 64,
+      "paper_url": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0590-8",
+      "title": "Field pathogenomics reveals the emergence of a diverse wheat yellow rust population"
     },
     "Milus et al., 2015": {
-      "n": 1
+      "journal": "Phytopathology (8) 114-1122 (2015)",
+      "n": 1,
+      "paper_url": "https://apsjournals.apsnet.org/doi/abs/10.1094/PHYTO-11-14-0305-R",
+      "title": "Race-specific adult-plant resistance in winter wheat to stripe rust and characterization of pathogen virulence patterns"
     },
     "Radhakrishnan et al., 2019": {
-      "n": 155
+      "journal": "in press",
+      "n": 155,
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "title": "Mobile and real-time plant disease (MARPLE) diagnostics for strain-level identification of complex fungal pathogens"
     },
     "Walter et al., 2016": {
-      "n": 3
+      "journal": "Ecol Evol. (9) 2790-2804 (2016)",
+      "n": 3,
+      "paper_url": "https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.2069",
+      "title": "Molecular markers for tracking the origin and worldwide distribution of invasive strains of Puccinia striiformis"
     }
   },
   "color_options": {
-    "Group": {
+    "country": {
       "color_map": [
         [
-          "1",
+          "Austria",
+          "#238E23"
+        ],
+        [
+          "Azerbaijan",
+          "#2F4F2F"
+        ],
+        [
+          "Belgium",
+          "#FF00FF"
+        ],
+        [
+          "Bulgaria",
+          "#0000FF"
+        ],
+        [
+          "Chile",
+          "#CFB53B"
+        ],
+        [
+          "Croatia",
+          "#007FFF"
+        ],
+        [
+          "Czechia",
+          "#9932CD"
+        ],
+        [
+          "Denmark",
+          "#00FFFF"
+        ],
+        [
+          "Ethiopia",
+          "#B5A642"
+        ],
+        [
+          "France",
+          "#545454"
+        ],
+        [
+          "Germany",
+          "#DB70DB"
+        ],
+        [
+          "Italy",
+          "#CC3299"
+        ],
+        [
+          "Kenya",
+          "#D9D9F3"
+        ],
+        [
+          "New_Zealand",
+          "#99CC32"
+        ],
+        [
+          "Pakistan",
+          "#DB9370"
+        ],
+        [
+          "Poland",
+          "#871F78"
+        ],
+        [
+          "Romania",
+          "#38B0DE"
+        ],
+        [
+          "Serbia",
+          "#70DB93"
+        ],
+        [
+          "Slovakia",
+          "#5C4033"
+        ],
+        [
+          "Spain",
+          "#FF7F00"
+        ],
+        [
+          "Sweden",
+          "#5F9F9F"
+        ],
+        [
+          "Turkey",
+          "#FFFF00"
+        ],
+        [
+          "UK",
+          "#855E42"
+        ],
+        [
+          "USA",
+          "#5959AB"
+        ],
+        [
+          "Uzbekistan",
+          "#238E68"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "country",
+      "menuItem": "country"
+    },
+    "group": {
+      "color_map": [
+        [
+          "PstS7",
           "#9C577F"
         ],
         [
-          "2",
+          "Triticale",
           "#6BA557"
         ],
         [
@@ -38,16 +166,24 @@
           "#73BFC0"
         ],
         [
-          "4",
-          "#C53340"
+          "PstS10",
+          "#D0474E"
         ],
         [
-          "5-1",
-          "#504A56"
+          "PstS8",
+          "#5A545E"
         ],
         [
           "Ethiopia",
           "#C4825C"
+        ],
+        [
+          "PstS1",
+          "#364271"
+        ],
+        [
+          "PstS4",
+          "#C5B358"
         ],
         [
           "Old_France",
@@ -64,130 +200,40 @@
         [
           "Other",
           "#D074A2"
+        ],
+        [
+          "PstS2_v27",
+          "#008080"
+        ],
+        [
+          "PstS5_v17",
+          "#1022FF"
+        ],
+        [
+          "PstS6",
+          "#FFED10"
+        ],
+        [
+          "PstS9_v17",
+          "#14F624"
         ]
       ],
-      "key": "Group",
-      "legendTitle": "Genetic Group",
-      "menuItem": "Genetic Group",
+      "key": "group",
+      "legendTitle": "genetic group",
+      "menuItem": "genetic group",
       "type": "discrete"
-    },
-    "country": {
-      "color_map": [
-        [
-          "Austria",
-          "#511EA8"
-        ],
-        [
-          "Azerbaijan",
-          "#4928B4"
-        ],
-        [
-          "Belgium",
-          "#4334BF"
-        ],
-        [
-          "Bulgaria",
-          "#4041C7"
-        ],
-        [
-          "Chile",
-          "#3F5ED0"
-        ],
-        [
-          "Croatia",
-          "#4379CD"
-        ],
-        [
-          "Czechia",
-          "#4784C7"
-        ],
-        [
-          "Denmark",
-          "#4B8FC1"
-        ],
-        [
-          "Ethiopia",
-          "#5098B9"
-        ],
-        [
-          "France",
-          "#56A0AF"
-        ],
-        [
-          "Germany",
-          "#5CA7A4"
-        ],
-        [
-          "Italy",
-          "#63AC99"
-        ],
-        [
-          "Kenya",
-          "#6BB18E"
-        ],
-        [
-          "New_Zealand",
-          "#73B583"
-        ],
-        [
-          "Pakistan",
-          "#7CB878"
-        ],
-        [
-          "Poland",
-          "#86BB6E"
-        ],
-        [
-          "Romania",
-          "#A4BE56"
-        ],
-        [
-          "Serbia",
-          "#AFBD4F"
-        ],
-        [
-          "Slovakia",
-          "#B9BC4A"
-        ],
-        [
-          "Spain",
-          "#CCB742"
-        ],
-        [
-          "Sweden",
-          "#D3B240"
-        ],
-        [
-          "Turkey",
-          "#DAAC3D"
-        ],
-        [
-          "UK",
-          "#DFA43B"
-        ],
-        [
-          "USA",
-          "#E39B39"
-        ],
-        [
-          "Uzbekistan",
-          "#E68F36"
-        ]
-      ],
-      "key": "country",
-      "legendTitle": "country",
-      "menuItem": "country"
     }
   },
   "defaults": {
-    "mapTriplicate": true
+    "colorBy": "group"
   },
   "filters": [
     "country",
     "region",
     "authors",
     "host",
-    "Group"
+    "group",
+    "collector"
   ],
   "geo": {
     "country": {
@@ -833,7 +879,7 @@
     "tree",
     "map"
   ],
-  "title": "Analysis of worldwide yellow rust samples",
-  "updated": "18 Apr 2019",
+  "title": "Analysis of worldwide wheat yellow rust samples",
+  "updated": "01 May 2019",
   "virus_count": 271
 }
