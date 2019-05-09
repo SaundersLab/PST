@@ -3,7 +3,7 @@
     "collector": "Ayele and Bekele",
     "date": "2016-12-05",
     "div": 0,
-    "group": "Ethiopia",
+    "group": "Other",
     "host": "Digalu"
   },
   "branch_length": 0.001,
@@ -15,7 +15,7 @@
         "country": "Ethiopia",
         "date": "2016-12-05",
         "div": 1e-06,
-        "group": "Ethiopia",
+        "group": "Other",
         "host": "Digalu",
         "location": "Sinana"
       },
@@ -31,7 +31,7 @@
         "country": "Ethiopia",
         "date": "2016-12-05",
         "div": 1e-06,
-        "group": "Ethiopia",
+        "group": "Other",
         "host": "Hoggana",
         "location": "Sinana"
       },
@@ -45,7 +45,7 @@
         "collector": "Ayele and Bekele",
         "date": "2016-12-05",
         "div": 1e-06,
-        "group": "Ethiopia",
+        "group": "Other",
         "host": "SPPSN#15"
       },
       "branch_length": 1e-06,
@@ -57,7 +57,7 @@
             "country": "Ethiopia",
             "date": "2016-12-05",
             "div": 2e-06,
-            "group": "Ethiopia",
+            "group": "Other",
             "host": "SPPSN#15",
             "location": "Sinana"
           },
@@ -71,7 +71,7 @@
             "collector": "Ayele and Bekele",
             "date": "2016-12-05",
             "div": 5.549999999999999e-06,
-            "group": "Ethiopia",
+            "group": "Other",
             "host": "Millenium"
           },
           "branch_length": 4.55e-06,
@@ -83,7 +83,7 @@
                 "country": "Ethiopia",
                 "date": "2016-12-05",
                 "div": 6.549999999999999e-06,
-                "group": "Ethiopia",
+                "group": "Other",
                 "host": "Millenium",
                 "location": "Sinana"
               },
@@ -97,7 +97,7 @@
                 "collector": "Unknown",
                 "date": "2016-12-05",
                 "div": 0.00019894,
-                "group": "Ethiopia",
+                "group": "Other",
                 "host": "Unknown"
               },
               "branch_length": 0.00019339,
@@ -107,7 +107,7 @@
                     "collector": "Unknown",
                     "date": "2013-XX-XX",
                     "div": 0.00074636,
-                    "group": "Ethiopia",
+                    "group": "Other",
                     "host": "Unknown"
                   },
                   "branch_length": 0.00054742,
@@ -117,7 +117,7 @@
                         "collector": "Unknown",
                         "date": "2016-XX-XX",
                         "div": 0.00126215,
-                        "group": "Ethiopia",
+                        "group": "Other",
                         "host": "Unknown"
                       },
                       "branch_length": 0.00051579,
@@ -143,7 +143,7 @@
                             "collector": "Unknown",
                             "date": "2016-XX-XX",
                             "div": 0.0015375,
-                            "group": "Ethiopia",
+                            "group": "Other",
                             "host": "Unknown"
                           },
                           "branch_length": 0.00027535,
@@ -155,7 +155,7 @@
                                 "country": "USA",
                                 "date": "2013-XX-XX",
                                 "div": 0.00170325,
-                                "group": "Reference",
+                                "group": "Other",
                                 "host": "Unknown",
                                 "location": "USA"
                               },
@@ -169,7 +169,7 @@
                                 "collector": "Unknown",
                                 "date": "2016-XX-XX",
                                 "div": 0.001788,
-                                "group": "Ethiopia",
+                                "group": "Other",
                                 "host": "Unknown"
                               },
                               "branch_length": 0.0002505,
@@ -226,7 +226,7 @@
                                     "collector": "Unknown",
                                     "date": "2016-XX-XX",
                                     "div": 0.0018813800000000002,
-                                    "group": "Ethiopia",
+                                    "group": "Other",
                                     "host": "Unknown"
                                   },
                                   "branch_length": 9.338e-05,
@@ -236,7 +236,7 @@
                                         "collector": "Unknown",
                                         "date": "2016-XX-XX",
                                         "div": 0.0018823800000000001,
-                                        "group": "PstS2_v27",
+                                        "group": "PstS1",
                                         "host": "Unknown"
                                       },
                                       "branch_length": 1e-06,
@@ -283,7 +283,7 @@
                                         "collector": "Dave, Ayele and Yoseph",
                                         "date": "2017-10-26",
                                         "div": 0.0019027500000000001,
-                                        "group": "Ethiopia",
+                                        "group": "Other",
                                         "host": "Unknown"
                                       },
                                       "branch_length": 2.137e-05,
@@ -295,7 +295,7 @@
                                             "country": "Ethiopia",
                                             "date": "2017-10-26",
                                             "div": 0.00190375,
-                                            "group": "Ethiopia",
+                                            "group": "Other",
                                             "host": "Millenium",
                                             "location": "Arsi_Robe"
                                           },
@@ -309,7 +309,7 @@
                                             "collector": "Dave, Ayele and Yoseph",
                                             "date": "2017-11-09",
                                             "div": 0.0019099300000000002,
-                                            "group": "Ethiopia",
+                                            "group": "Other",
                                             "host": "Unknown"
                                           },
                                           "branch_length": 7.18e-06,
@@ -321,7 +321,7 @@
                                                 "country": "Ethiopia",
                                                 "date": "2017-11-09",
                                                 "div": 0.0019109300000000001,
-                                                "group": "Ethiopia",
+                                                "group": "Other",
                                                 "host": "Line",
                                                 "location": "Sinana_RS"
                                               },
@@ -335,7 +335,7 @@
                                                 "collector": "Dave, Ayele and Yoseph",
                                                 "date": "2017-10-23",
                                                 "div": 0.0019109300000000001,
-                                                "group": "Ethiopia",
+                                                "group": "Other",
                                                 "host": "Unknown"
                                               },
                                               "branch_length": 1e-06,
@@ -347,7 +347,7 @@
                                                     "country": "Ethiopia",
                                                     "date": "2017-10-23",
                                                     "div": 0.00191193,
-                                                    "group": "Ethiopia",
+                                                    "group": "Other",
                                                     "host": "Unknown",
                                                     "location": "Lay_Gayint_08_Wuha_Midir"
                                                   },
@@ -361,7 +361,7 @@
                                                     "collector": "Dave, Ayele and Yoseph",
                                                     "date": "2017-10-23",
                                                     "div": 0.0019121300000000002,
-                                                    "group": "Ethiopia",
+                                                    "group": "Other",
                                                     "host": "Unknown"
                                                   },
                                                   "branch_length": 1.2e-06,
@@ -387,7 +387,7 @@
                                                         "collector": "Dave, Ayele and Yoseph",
                                                         "date": "2017-10-23",
                                                         "div": 0.0019154800000000002,
-                                                        "group": "Ethiopia",
+                                                        "group": "Other",
                                                         "host": "Unknown"
                                                       },
                                                       "branch_length": 3.35e-06,
@@ -399,7 +399,7 @@
                                                             "country": "Ethiopia",
                                                             "date": "2017-10-23",
                                                             "div": 0.0019164800000000001,
-                                                            "group": "Ethiopia",
+                                                            "group": "Other",
                                                             "host": "Unknown_Triticale",
                                                             "location": "Lay_Gayint_Kebele_07"
                                                           },
@@ -415,7 +415,7 @@
                                                             "country": "Ethiopia",
                                                             "date": "2017-11-09",
                                                             "div": 0.0019164800000000001,
-                                                            "group": "Ethiopia",
+                                                            "group": "Other",
                                                             "host": "Unknown",
                                                             "location": "Selka"
                                                           },
@@ -474,7 +474,7 @@
                         "collector": "Unknown",
                         "date": "2013-XX-XX",
                         "div": 0.00120753,
-                        "group": "Ethiopia",
+                        "group": "Other",
                         "host": "Unknown"
                       },
                       "branch_length": 0.00046117,
@@ -531,7 +531,7 @@
                             "collector": "Dave, Ayele and Yoseph",
                             "date": "2017-11-09",
                             "div": 0.00152436,
-                            "group": "Ethiopia",
+                            "group": "Other",
                             "host": "Unknown"
                           },
                           "branch_length": 0.00031683,
@@ -543,7 +543,7 @@
                                 "country": "Ethiopia",
                                 "date": "2017-11-09",
                                 "div": 0.00154618,
-                                "group": "Ethiopia",
+                                "group": "Other",
                                 "host": "Sofumer",
                                 "location": "Sinana_Kebira"
                               },
@@ -557,7 +557,7 @@
                                 "collector": "Fikirte Yirga",
                                 "date": "2017-09-07",
                                 "div": 0.00176562,
-                                "group": "Ethiopia",
+                                "group": "Other",
                                 "host": "Unknown"
                               },
                               "branch_length": 0.00024126,
@@ -567,7 +567,7 @@
                                     "collector": "Fikirte Yirga",
                                     "date": "2017-09-07",
                                     "div": 0.00176662,
-                                    "group": "Ethiopia",
+                                    "group": "Other",
                                     "host": "Unknown"
                                   },
                                   "branch_length": 1e-06,
@@ -579,7 +579,7 @@
                                         "country": "Ethiopia",
                                         "date": "2017-10-17",
                                         "div": 0.00176762,
-                                        "group": "Ethiopia",
+                                        "group": "Other",
                                         "host": "ET13-A2",
                                         "location": "Aleltu_Fiche_Gelila"
                                       },
@@ -593,7 +593,7 @@
                                         "collector": "Fikirte Yirga",
                                         "date": "2017-09-07",
                                         "div": 0.00176762,
-                                        "group": "Ethiopia",
+                                        "group": "Other",
                                         "host": "Unknown"
                                       },
                                       "branch_length": 1e-06,
@@ -605,7 +605,7 @@
                                             "country": "Ethiopia",
                                             "date": "2017-09-07",
                                             "div": 0.0017686199999999998,
-                                            "group": "Ethiopia",
+                                            "group": "Other",
                                             "host": "Pavon-76",
                                             "location": "Meraro"
                                           },
@@ -619,7 +619,7 @@
                                             "collector": "Fikirte Yirga",
                                             "date": "2017-09-07",
                                             "div": 0.00176882,
-                                            "group": "Ethiopia",
+                                            "group": "Other",
                                             "host": "Unknown"
                                           },
                                           "branch_length": 1.2e-06,
@@ -631,7 +631,7 @@
                                                 "country": "Ethiopia",
                                                 "date": "2017-07-27",
                                                 "div": 0.0017698199999999999,
-                                                "group": "Ethiopia",
+                                                "group": "Other",
                                                 "host": "Wane",
                                                 "location": "Arsi_Robe"
                                               },
@@ -645,7 +645,7 @@
                                                 "collector": "Fikirte Yirga",
                                                 "date": "2017-08-29",
                                                 "div": 0.00180123,
-                                                "group": "Ethiopia",
+                                                "group": "Other",
                                                 "host": "Unknown"
                                               },
                                               "branch_length": 3.241e-05,
@@ -657,7 +657,7 @@
                                                     "country": "Ethiopia",
                                                     "date": "2017-08-29",
                                                     "div": 0.00180223,
-                                                    "group": "Ethiopia",
+                                                    "group": "Other",
                                                     "host": "PBW343(SC)",
                                                     "location": "Assasa"
                                                   },
@@ -671,7 +671,7 @@
                                                     "collector": "Dave, Gebre, Yoseph",
                                                     "date": "2017-10-13",
                                                     "div": 0.00180223,
-                                                    "group": "Ethiopia",
+                                                    "group": "Other",
                                                     "host": "Unknown"
                                                   },
                                                   "branch_length": 1e-06,
@@ -683,7 +683,7 @@
                                                         "country": "Ethiopia",
                                                         "date": "2017-10-13",
                                                         "div": 0.0018032299999999999,
-                                                        "group": "Ethiopia",
+                                                        "group": "Other",
                                                         "host": "Unknown",
                                                         "location": "Silti_Wereda_Danicho_Azoro"
                                                       },
@@ -697,7 +697,7 @@
                                                         "collector": "Dave, Gebre, Yoseph",
                                                         "date": "2017-10-13",
                                                         "div": 0.0018032299999999999,
-                                                        "group": "Ethiopia",
+                                                        "group": "Other",
                                                         "host": "Unknown"
                                                       },
                                                       "branch_length": 1e-06,
@@ -709,7 +709,7 @@
                                                             "country": "Ethiopia",
                                                             "date": "2017-10-13",
                                                             "div": 0.0018042299999999998,
-                                                            "group": "Ethiopia",
+                                                            "group": "Other",
                                                             "host": "Unknown",
                                                             "location": "Wilting_Woreda"
                                                           },
@@ -723,7 +723,7 @@
                                                             "collector": "Dave Hodson",
                                                             "date": "2017-12-01",
                                                             "div": 0.0018042299999999998,
-                                                            "group": "Ethiopia",
+                                                            "group": "Other",
                                                             "host": "Unknown"
                                                           },
                                                           "branch_length": 1e-06,
@@ -735,7 +735,7 @@
                                                                 "country": "Ethiopia",
                                                                 "date": "2017-12-01",
                                                                 "div": 0.0018052299999999997,
-                                                                "group": "Ethiopia",
+                                                                "group": "Other",
                                                                 "host": "Unknown",
                                                                 "location": "Sinana"
                                                               },
@@ -749,7 +749,7 @@
                                                                 "collector": "Kulumsa",
                                                                 "date": "2017-12-01",
                                                                 "div": 0.0018052299999999997,
-                                                                "group": "Ethiopia",
+                                                                "group": "Other",
                                                                 "host": "Unknown"
                                                               },
                                                               "branch_length": 1e-06,
@@ -759,7 +759,7 @@
                                                                     "collector": "Kulumsa",
                                                                     "date": "2017-09-07",
                                                                     "div": 0.0018062299999999996,
-                                                                    "group": "Ethiopia",
+                                                                    "group": "Other",
                                                                     "host": "Unknown"
                                                                   },
                                                                   "branch_length": 1e-06,
@@ -771,7 +771,7 @@
                                                                         "country": "Ethiopia",
                                                                         "date": "2017-09-07",
                                                                         "div": 0.0018072299999999995,
-                                                                        "group": "Ethiopia",
+                                                                        "group": "Other",
                                                                         "host": "Galama",
                                                                         "location": "Meraro"
                                                                       },
@@ -785,7 +785,7 @@
                                                                         "collector": "Dave, gebre and yoseph",
                                                                         "date": "2017-09-07",
                                                                         "div": 0.0018072299999999995,
-                                                                        "group": "Ethiopia",
+                                                                        "group": "Other",
                                                                         "host": "Unknown"
                                                                       },
                                                                       "branch_length": 1e-06,
@@ -797,7 +797,7 @@
                                                                             "country": "Ethiopia",
                                                                             "date": "2017-10-11",
                                                                             "div": 0.0018082299999999994,
-                                                                            "group": "Ethiopia",
+                                                                            "group": "Other",
                                                                             "host": "Unknown",
                                                                             "location": "Ilu_Kobo"
                                                                           },
@@ -811,7 +811,7 @@
                                                                             "collector": "Dave, Ayele and Yoseph",
                                                                             "date": "2017-09-07",
                                                                             "div": 0.0018082299999999994,
-                                                                            "group": "Ethiopia",
+                                                                            "group": "Other",
                                                                             "host": "Unknown"
                                                                           },
                                                                           "branch_length": 1e-06,
@@ -823,7 +823,7 @@
                                                                                 "country": "Ethiopia",
                                                                                 "date": "2017-11-08",
                                                                                 "div": 0.0018168599999999994,
-                                                                                "group": "Ethiopia",
+                                                                                "group": "Other",
                                                                                 "host": "Unknown_Emmer_Wheat",
                                                                                 "location": "Sinana_Kabira_Shaya"
                                                                               },
@@ -837,7 +837,7 @@
                                                                                 "collector": "Fikirte Yirga",
                                                                                 "date": "2017-09-07",
                                                                                 "div": 0.0018092299999999993,
-                                                                                "group": "Ethiopia",
+                                                                                "group": "Other",
                                                                                 "host": "Unknown"
                                                                               },
                                                                               "branch_length": 1e-06,
@@ -849,7 +849,7 @@
                                                                                     "country": "Ethiopia",
                                                                                     "date": "2017-12-01",
                                                                                     "div": 0.0018171199999999993,
-                                                                                    "group": "Ethiopia",
+                                                                                    "group": "Other",
                                                                                     "host": "Unknown",
                                                                                     "location": "Sinana"
                                                                                   },
@@ -863,7 +863,7 @@
                                                                                     "collector": "Fikirte Yirga",
                                                                                     "date": "2017-09-07",
                                                                                     "div": 0.0018102299999999993,
-                                                                                    "group": "Ethiopia",
+                                                                                    "group": "Other",
                                                                                     "host": "ET13-A2"
                                                                                   },
                                                                                   "branch_length": 1e-06,
@@ -875,7 +875,7 @@
                                                                                         "country": "Ethiopia",
                                                                                         "date": "2017-09-07",
                                                                                         "div": 0.0018112299999999992,
-                                                                                        "group": "Ethiopia",
+                                                                                        "group": "Other",
                                                                                         "host": "ET13-A2",
                                                                                         "location": "Meraro"
                                                                                       },
@@ -889,7 +889,7 @@
                                                                                         "collector": "Fikirte Yirga",
                                                                                         "date": "2017-09-07",
                                                                                         "div": 0.0018112299999999992,
-                                                                                        "group": "Ethiopia",
+                                                                                        "group": "Other",
                                                                                         "host": "Enkoy"
                                                                                       },
                                                                                       "branch_length": 1e-06,
@@ -901,7 +901,7 @@
                                                                                             "country": "Ethiopia",
                                                                                             "date": "2017-09-07",
                                                                                             "div": 0.001812229999999999,
-                                                                                            "group": "Ethiopia",
+                                                                                            "group": "Other",
                                                                                             "host": "Enkoy",
                                                                                             "location": "Meraro"
                                                                                           },
@@ -917,7 +917,7 @@
                                                                                             "country": "Ethiopia",
                                                                                             "date": "2017-10-11",
                                                                                             "div": 0.0018166799999999991,
-                                                                                            "group": "Ethiopia",
+                                                                                            "group": "Other",
                                                                                             "host": "Dandaa",
                                                                                             "location": "Hadya_Lemo_Dicho_Demala"
                                                                                           },
@@ -961,7 +961,7 @@
                                                                     "collector": "Kulumsa",
                                                                     "date": "2017-12-01",
                                                                     "div": 0.0018063499999999998,
-                                                                    "group": "Ethiopia",
+                                                                    "group": "Other",
                                                                     "host": "Unknown"
                                                                   },
                                                                   "branch_length": 1.12e-06,
@@ -973,7 +973,7 @@
                                                                         "country": "Ethiopia",
                                                                         "date": "2017-08-29",
                                                                         "div": 0.0018073499999999997,
-                                                                        "group": "Ethiopia",
+                                                                        "group": "Other",
                                                                         "host": "K62954A",
                                                                         "location": "Assasa"
                                                                       },
@@ -987,7 +987,7 @@
                                                                         "collector": "Dave, gebre and yoseph",
                                                                         "date": "2017-12-01",
                                                                         "div": 0.0018105999999999997,
-                                                                        "group": "Ethiopia",
+                                                                        "group": "Other",
                                                                         "host": "Unknown"
                                                                       },
                                                                       "branch_length": 4.25e-06,
@@ -997,7 +997,7 @@
                                                                             "collector": "Dave, gebre and yoseph",
                                                                             "date": "2017-12-01",
                                                                             "div": 0.0018115999999999996,
-                                                                            "group": "Ethiopia",
+                                                                            "group": "Other",
                                                                             "host": "Unknown"
                                                                           },
                                                                           "branch_length": 1e-06,
@@ -1009,7 +1009,7 @@
                                                                                 "country": "Ethiopia",
                                                                                 "date": "2017-12-01",
                                                                                 "div": 0.0018125999999999995,
-                                                                                "group": "Ethiopia",
+                                                                                "group": "Other",
                                                                                 "host": "Unknown",
                                                                                 "location": "Sinana"
                                                                               },
@@ -1023,7 +1023,7 @@
                                                                                 "collector": "Dave, gebre and yoseph",
                                                                                 "date": "2017-12-01",
                                                                                 "div": 0.0018130399999999995,
-                                                                                "group": "Ethiopia",
+                                                                                "group": "Other",
                                                                                 "host": "Unknown"
                                                                               },
                                                                               "branch_length": 1.44e-06,
@@ -1035,7 +1035,7 @@
                                                                                     "country": "Ethiopia",
                                                                                     "date": "2017-10-11",
                                                                                     "div": 0.0018140399999999994,
-                                                                                    "group": "Ethiopia",
+                                                                                    "group": "Other",
                                                                                     "host": "Unknown",
                                                                                     "location": "Silt'e"
                                                                                   },
@@ -1049,7 +1049,7 @@
                                                                                     "collector": "Dave, gebre and yoseph",
                                                                                     "date": "2017-12-01",
                                                                                     "div": 0.0018188699999999996,
-                                                                                    "group": "Ethiopia",
+                                                                                    "group": "Other",
                                                                                     "host": "Unknown"
                                                                                   },
                                                                                   "branch_length": 5.83e-06,
@@ -1061,7 +1061,7 @@
                                                                                         "country": "Ethiopia",
                                                                                         "date": "2017-12-01",
                                                                                         "div": 0.0018198699999999995,
-                                                                                        "group": "Ethiopia",
+                                                                                        "group": "Other",
                                                                                         "host": "Unknown",
                                                                                         "location": "Sinana"
                                                                                       },
@@ -1077,7 +1077,7 @@
                                                                                         "country": "Ethiopia",
                                                                                         "date": "2017-10-12",
                                                                                         "div": 0.0018198699999999995,
-                                                                                        "group": "Ethiopia",
+                                                                                        "group": "Other",
                                                                                         "host": "Unknown",
                                                                                         "location": "Limo_Lereba_Roma"
                                                                                       },
@@ -1106,7 +1106,7 @@
                                                                             "collector": "Dave, gebre and yoseph",
                                                                             "date": "2017-10-12",
                                                                             "div": 0.0018115999999999996,
-                                                                            "group": "Ethiopia",
+                                                                            "group": "Other",
                                                                             "host": "Unknown"
                                                                           },
                                                                           "branch_length": 1e-06,
@@ -1118,7 +1118,7 @@
                                                                                 "country": "Ethiopia",
                                                                                 "date": "2017-10-12",
                                                                                 "div": 0.0018125999999999995,
-                                                                                "group": "Ethiopia",
+                                                                                "group": "Other",
                                                                                 "host": "Ogolcho",
                                                                                 "location": "Shinshicho"
                                                                               },
@@ -1132,7 +1132,7 @@
                                                                                 "collector": "Unknown",
                                                                                 "date": "2018-08-24",
                                                                                 "div": 0.0021510499999999994,
-                                                                                "group": "Ethiopia",
+                                                                                "group": "Other",
                                                                                 "host": "Unknown"
                                                                               },
                                                                               "branch_length": 0.00033945,
@@ -1142,7 +1142,7 @@
                                                                                     "collector": "Unknown",
                                                                                     "date": "2018-08-24",
                                                                                     "div": 0.0021675599999999994,
-                                                                                    "group": "Ethiopia",
+                                                                                    "group": "Other",
                                                                                     "host": "Unknown"
                                                                                   },
                                                                                   "branch_length": 1.651e-05,
@@ -1154,7 +1154,7 @@
                                                                                         "country": "Ethiopia",
                                                                                         "date": "2018-08-15",
                                                                                         "div": 0.0021685599999999995,
-                                                                                        "group": "Ethiopia",
+                                                                                        "group": "Other",
                                                                                         "host": "Unknown",
                                                                                         "location": "Ethiopia"
                                                                                       },
@@ -1170,7 +1170,7 @@
                                                                                         "country": "Ethiopia",
                                                                                         "date": "2018-08-24",
                                                                                         "div": 0.0021685599999999995,
-                                                                                        "group": "Ethiopia",
+                                                                                        "group": "Other",
                                                                                         "host": "Unknown",
                                                                                         "location": "Ethiopia"
                                                                                       },
@@ -1189,7 +1189,7 @@
                                                                                     "collector": "Unknown",
                                                                                     "date": "2018-08-24",
                                                                                     "div": 0.0021520499999999995,
-                                                                                    "group": "Ethiopia",
+                                                                                    "group": "Other",
                                                                                     "host": "Unknown"
                                                                                   },
                                                                                   "branch_length": 1e-06,
@@ -1201,7 +1201,7 @@
                                                                                         "country": "Ethiopia",
                                                                                         "date": "2018-08-24",
                                                                                         "div": 0.0021583899999999996,
-                                                                                        "group": "Ethiopia",
+                                                                                        "group": "Other",
                                                                                         "host": "Unknown",
                                                                                         "location": "Ethiopia"
                                                                                       },
@@ -1217,7 +1217,7 @@
                                                                                         "country": "Ethiopia",
                                                                                         "date": "2018-08-24",
                                                                                         "div": 0.0021530499999999997,
-                                                                                        "group": "Ethiopia",
+                                                                                        "group": "Other",
                                                                                         "host": "Unknown",
                                                                                         "location": "Ethiopia"
                                                                                       },
@@ -1296,7 +1296,7 @@
                                     "collector": "Fikirte Yirga",
                                     "date": "2017-09-07",
                                     "div": 0.00176662,
-                                    "group": "Ethiopia",
+                                    "group": "Other",
                                     "host": "Unknown"
                                   },
                                   "branch_length": 1e-06,
@@ -1308,7 +1308,7 @@
                                         "country": "Ethiopia",
                                         "date": "2017-10-15",
                                         "div": 0.00176762,
-                                        "group": "Ethiopia",
+                                        "group": "Other",
                                         "host": "Kubsa",
                                         "location": "Bilalo"
                                       },
@@ -1322,7 +1322,7 @@
                                         "collector": "Fikirte Yirga",
                                         "date": "2017-09-07",
                                         "div": 0.00176764,
-                                        "group": "Ethiopia",
+                                        "group": "Other",
                                         "host": "Unknown"
                                       },
                                       "branch_length": 1.02e-06,
@@ -1334,7 +1334,7 @@
                                             "country": "Ethiopia",
                                             "date": "2017-12-01",
                                             "div": 0.00176864,
-                                            "group": "Ethiopia",
+                                            "group": "Other",
                                             "host": "Unknown",
                                             "location": "Sinana"
                                           },
@@ -1348,7 +1348,7 @@
                                             "collector": "Fikirte Yirga",
                                             "date": "2017-09-07",
                                             "div": 0.00176965,
-                                            "group": "Ethiopia",
+                                            "group": "Other",
                                             "host": "Unknown"
                                           },
                                           "branch_length": 2.01e-06,
@@ -1360,7 +1360,7 @@
                                                 "country": "Ethiopia",
                                                 "date": "2017-09-07",
                                                 "div": 0.00177065,
-                                                "group": "Ethiopia",
+                                                "group": "Other",
                                                 "host": "Lemu",
                                                 "location": "Meraro"
                                               },
@@ -1374,7 +1374,7 @@
                                                 "collector": "Fikirte Yirga",
                                                 "date": "2017-09-07",
                                                 "div": 0.00177214,
-                                                "group": "Ethiopia",
+                                                "group": "Other",
                                                 "host": "Unknown"
                                               },
                                               "branch_length": 2.49e-06,
@@ -1386,7 +1386,7 @@
                                                     "country": "Ethiopia",
                                                     "date": "2017-09-06",
                                                     "div": 0.0017731399999999999,
-                                                    "group": "Ethiopia",
+                                                    "group": "Other",
                                                     "host": "Dure",
                                                     "location": "Kulumsa"
                                                   },
@@ -1400,7 +1400,7 @@
                                                     "collector": "Fikirte Yirga",
                                                     "date": "2017-09-07",
                                                     "div": 0.0017731399999999999,
-                                                    "group": "Ethiopia",
+                                                    "group": "Other",
                                                     "host": "Unknown"
                                                   },
                                                   "branch_length": 1e-06,
@@ -1412,7 +1412,7 @@
                                                         "country": "Ethiopia",
                                                         "date": "2017-10-25",
                                                         "div": 0.0017741399999999998,
-                                                        "group": "Ethiopia",
+                                                        "group": "Other",
                                                         "host": "Dashen",
                                                         "location": "Kuyu_Liben_Kura"
                                                       },
@@ -1426,7 +1426,7 @@
                                                         "collector": "Fikirte Yirga",
                                                         "date": "2017-09-07",
                                                         "div": 0.0017758599999999998,
-                                                        "group": "Ethiopia",
+                                                        "group": "Other",
                                                         "host": "Unknown"
                                                       },
                                                       "branch_length": 2.72e-06,
@@ -1436,7 +1436,7 @@
                                                             "collector": "Fikirte Yirga",
                                                             "date": "2017-09-07",
                                                             "div": 0.0017888799999999999,
-                                                            "group": "Ethiopia",
+                                                            "group": "Other",
                                                             "host": "Unknown"
                                                           },
                                                           "branch_length": 1.302e-05,
@@ -1448,7 +1448,7 @@
                                                                 "country": "Ethiopia",
                                                                 "date": "2017-09-07",
                                                                 "div": 0.0017898799999999998,
-                                                                "group": "Ethiopia",
+                                                                "group": "Other",
                                                                 "host": "Kubsa",
                                                                 "location": "Bekoji"
                                                               },
@@ -1462,7 +1462,7 @@
                                                                 "collector": "Fikirte Yirga",
                                                                 "date": "2017-09-07",
                                                                 "div": 0.0017911499999999998,
-                                                                "group": "Ethiopia",
+                                                                "group": "Other",
                                                                 "host": "Unknown"
                                                               },
                                                               "branch_length": 2.27e-06,
@@ -1474,7 +1474,7 @@
                                                                     "country": "Ethiopia",
                                                                     "date": "2017-11-09",
                                                                     "div": 0.0017921499999999997,
-                                                                    "group": "Ethiopia",
+                                                                    "group": "Other",
                                                                     "host": "Kasuku",
                                                                     "location": "Sinana_RS"
                                                                   },
@@ -1488,7 +1488,7 @@
                                                                     "collector": "Fikirte Yirga",
                                                                     "date": "2017-09-07",
                                                                     "div": 0.0017921499999999997,
-                                                                    "group": "Ethiopia",
+                                                                    "group": "Other",
                                                                     "host": "Unknown"
                                                                   },
                                                                   "branch_length": 1e-06,
@@ -1500,7 +1500,7 @@
                                                                         "country": "Ethiopia",
                                                                         "date": "2017-09-07",
                                                                         "div": 0.0017931499999999996,
-                                                                        "group": "Ethiopia",
+                                                                        "group": "Other",
                                                                         "host": "Unknown",
                                                                         "location": "Meraro"
                                                                       },
@@ -1514,7 +1514,7 @@
                                                                         "collector": "Fikirte Yirga",
                                                                         "date": "2017-09-07",
                                                                         "div": 0.0017931499999999996,
-                                                                        "group": "Ethiopia",
+                                                                        "group": "Other",
                                                                         "host": "Huluka"
                                                                       },
                                                                       "branch_length": 1e-06,
@@ -1526,7 +1526,7 @@
                                                                             "country": "Ethiopia",
                                                                             "date": "2017-09-07",
                                                                             "div": 0.0017941499999999996,
-                                                                            "group": "Ethiopia",
+                                                                            "group": "Other",
                                                                             "host": "Huluka",
                                                                             "location": "Meraro"
                                                                           },
@@ -1540,7 +1540,7 @@
                                                                             "collector": "Fikirte Yirga",
                                                                             "date": "2017-09-07",
                                                                             "div": 0.0017941499999999996,
-                                                                            "group": "Ethiopia",
+                                                                            "group": "Other",
                                                                             "host": "Kekeba"
                                                                           },
                                                                           "branch_length": 1e-06,
@@ -1552,7 +1552,7 @@
                                                                                 "country": "Ethiopia",
                                                                                 "date": "2017-10-12",
                                                                                 "div": 0.0017951499999999995,
-                                                                                "group": "Ethiopia",
+                                                                                "group": "Other",
                                                                                 "host": "Kekeba",
                                                                                 "location": "Danbora_Amancho_Boganeos"
                                                                               },
@@ -1566,7 +1566,7 @@
                                                                                 "collector": "Fikirte Yirga",
                                                                                 "date": "2017-09-07",
                                                                                 "div": 0.0018141199999999996,
-                                                                                "group": "Ethiopia",
+                                                                                "group": "Other",
                                                                                 "host": "BOLO"
                                                                               },
                                                                               "branch_length": 1.997e-05,
@@ -1578,7 +1578,7 @@
                                                                                     "country": "Ethiopia",
                                                                                     "date": "2017-10-15",
                                                                                     "div": 0.0018185899999999995,
-                                                                                    "group": "Ethiopia",
+                                                                                    "group": "Other",
                                                                                     "host": "BOLO",
                                                                                     "location": "Arsi_Robe"
                                                                                   },
@@ -1592,7 +1592,7 @@
                                                                                     "collector": "Fikirte Yirga",
                                                                                     "date": "2017-09-07",
                                                                                     "div": 0.0018344199999999996,
-                                                                                    "group": "Ethiopia",
+                                                                                    "group": "Other",
                                                                                     "host": "Hidase"
                                                                                   },
                                                                                   "branch_length": 2.03e-05,
@@ -1604,7 +1604,7 @@
                                                                                         "country": "Ethiopia",
                                                                                         "date": "2017-10-18",
                                                                                         "div": 0.0018354199999999995,
-                                                                                        "group": "Ethiopia",
+                                                                                        "group": "Other",
                                                                                         "host": "Hidase",
                                                                                         "location": "Ch'aso"
                                                                                       },
@@ -1618,7 +1618,7 @@
                                                                                         "collector": "Fikirte Yirga",
                                                                                         "date": "2017-09-07",
                                                                                         "div": 0.0018354199999999995,
-                                                                                        "group": "Ethiopia",
+                                                                                        "group": "Other",
                                                                                         "host": "Madda_Wolabu"
                                                                                       },
                                                                                       "branch_length": 1e-06,
@@ -1630,7 +1630,7 @@
                                                                                             "country": "Ethiopia",
                                                                                             "date": "2017-09-07",
                                                                                             "div": 0.0018364199999999994,
-                                                                                            "group": "Ethiopia",
+                                                                                            "group": "Other",
                                                                                             "host": "Kingbird",
                                                                                             "location": "Meraro"
                                                                                           },
@@ -1646,7 +1646,7 @@
                                                                                             "country": "Ethiopia",
                                                                                             "date": "2017-11-08",
                                                                                             "div": 0.0018364199999999994,
-                                                                                            "group": "Ethiopia",
+                                                                                            "group": "Other",
                                                                                             "host": "Madda_Wolabu",
                                                                                             "location": "Dinsho_Abakera_Zalo"
                                                                                           },
@@ -1700,7 +1700,7 @@
                                                             "collector": "Fikirte Yirga",
                                                             "date": "2017-09-07",
                                                             "div": 0.0017908899999999998,
-                                                            "group": "Ethiopia",
+                                                            "group": "Other",
                                                             "host": "Hoggana"
                                                           },
                                                           "branch_length": 1.503e-05,
@@ -1712,7 +1712,7 @@
                                                                 "country": "Ethiopia",
                                                                 "date": "2017-08-29",
                                                                 "div": 0.0017918899999999998,
-                                                                "group": "Ethiopia",
+                                                                "group": "Other",
                                                                 "host": "Hoggana",
                                                                 "location": "Assasa"
                                                               },
@@ -1726,7 +1726,7 @@
                                                                 "collector": "Fikirte Yirga",
                                                                 "date": "2017-09-07",
                                                                 "div": 0.0017918899999999998,
-                                                                "group": "Ethiopia",
+                                                                "group": "Other",
                                                                 "host": "Digalu"
                                                               },
                                                               "branch_length": 1e-06,
@@ -1738,7 +1738,7 @@
                                                                     "country": "Ethiopia",
                                                                     "date": "2017-10-13",
                                                                     "div": 0.0017928899999999997,
-                                                                    "group": "Ethiopia",
+                                                                    "group": "Other",
                                                                     "host": "Digalu",
                                                                     "location": "Tiya"
                                                                   },
@@ -1752,7 +1752,7 @@
                                                                     "collector": "Dave, Ayele and Yoseph",
                                                                     "date": "2017-09-07",
                                                                     "div": 0.0017928899999999997,
-                                                                    "group": "Ethiopia",
+                                                                    "group": "Other",
                                                                     "host": "Digalu"
                                                                   },
                                                                   "branch_length": 1e-06,
@@ -1762,7 +1762,7 @@
                                                                         "collector": "Dave, Ayele and Yoseph",
                                                                         "date": "2017-11-09",
                                                                         "div": 0.0018038699999999997,
-                                                                        "group": "Ethiopia",
+                                                                        "group": "Other",
                                                                         "host": "Digalu"
                                                                       },
                                                                       "branch_length": 1.098e-05,
@@ -1774,7 +1774,7 @@
                                                                             "country": "Ethiopia",
                                                                             "date": "2017-10-24",
                                                                             "div": 0.0018048699999999997,
-                                                                            "group": "Ethiopia",
+                                                                            "group": "Other",
                                                                             "host": "Digalu",
                                                                             "location": "Absila"
                                                                           },
@@ -1790,7 +1790,7 @@
                                                                             "country": "Ethiopia",
                                                                             "date": "2017-11-09",
                                                                             "div": 0.0018048699999999997,
-                                                                            "group": "Ethiopia",
+                                                                            "group": "Other",
                                                                             "host": "Bulala",
                                                                             "location": "Sinana_RS"
                                                                           },
@@ -1809,7 +1809,7 @@
                                                                         "collector": "Dave, Ayele and Yoseph",
                                                                         "date": "2017-09-07",
                                                                         "div": 0.0018236099999999996,
-                                                                        "group": "Ethiopia",
+                                                                        "group": "Other",
                                                                         "host": "Digalu"
                                                                       },
                                                                       "branch_length": 3.072e-05,
@@ -1819,7 +1819,7 @@
                                                                             "collector": "Fikirte Yirga",
                                                                             "date": "2017-10-15",
                                                                             "div": 0.0018246099999999995,
-                                                                            "group": "Ethiopia",
+                                                                            "group": "Other",
                                                                             "host": "Digalu"
                                                                           },
                                                                           "branch_length": 1e-06,
@@ -1831,7 +1831,7 @@
                                                                                 "country": "Ethiopia",
                                                                                 "date": "2017-10-11",
                                                                                 "div": 0.0018256099999999994,
-                                                                                "group": "Ethiopia",
+                                                                                "group": "Other",
                                                                                 "host": "Digalu",
                                                                                 "location": "Weliso_Kora"
                                                                               },
@@ -1847,7 +1847,7 @@
                                                                                 "country": "Ethiopia",
                                                                                 "date": "2017-10-15",
                                                                                 "div": 0.0018256099999999994,
-                                                                                "group": "Ethiopia",
+                                                                                "group": "Other",
                                                                                 "host": "KBG-01",
                                                                                 "location": "Arsi_Robe"
                                                                               },
@@ -1866,7 +1866,7 @@
                                                                             "collector": "Dave, Ayele and Yoseph",
                                                                             "date": "2017-09-07",
                                                                             "div": 0.0018331399999999996,
-                                                                            "group": "Ethiopia",
+                                                                            "group": "Other",
                                                                             "host": "Sofumer"
                                                                           },
                                                                           "branch_length": 9.53e-06,
@@ -1878,7 +1878,7 @@
                                                                                 "country": "Ethiopia",
                                                                                 "date": "2017-11-10",
                                                                                 "div": 0.0018341399999999995,
-                                                                                "group": "Ethiopia",
+                                                                                "group": "Other",
                                                                                 "host": "Sofumer",
                                                                                 "location": "Sinana_Kebira"
                                                                               },
@@ -1892,7 +1892,7 @@
                                                                                 "collector": "Dave, Ayele and Yoseph",
                                                                                 "date": "2017-09-07",
                                                                                 "div": 0.0018341399999999995,
-                                                                                "group": "Ethiopia",
+                                                                                "group": "Other",
                                                                                 "host": "Sofumer"
                                                                               },
                                                                               "branch_length": 1e-06,
@@ -1904,7 +1904,7 @@
                                                                                     "country": "Ethiopia",
                                                                                     "date": "2017-11-08",
                                                                                     "div": 0.0018351399999999994,
-                                                                                    "group": "Ethiopia",
+                                                                                    "group": "Other",
                                                                                     "host": "Sofumer",
                                                                                     "location": "Sinana_Kebira"
                                                                                   },
@@ -1918,7 +1918,7 @@
                                                                                     "collector": "Fikirte Yirga",
                                                                                     "date": "2017-09-07",
                                                                                     "div": 0.0018351399999999994,
-                                                                                    "group": "Ethiopia",
+                                                                                    "group": "Other",
                                                                                     "host": "Madda_Wolabu"
                                                                                   },
                                                                                   "branch_length": 1e-06,
@@ -1930,7 +1930,7 @@
                                                                                         "country": "Ethiopia",
                                                                                         "date": "2017-10-17",
                                                                                         "div": 0.0018361399999999993,
-                                                                                        "group": "Ethiopia",
+                                                                                        "group": "Other",
                                                                                         "host": "Dandaa",
                                                                                         "location": "Aleltu_Chole_Shenkole"
                                                                                       },
@@ -1946,7 +1946,7 @@
                                                                                         "country": "Ethiopia",
                                                                                         "date": "2017-09-07",
                                                                                         "div": 0.0018361399999999993,
-                                                                                        "group": "Ethiopia",
+                                                                                        "group": "Other",
                                                                                         "host": "Madda_Wolabu",
                                                                                         "location": "Bekoji"
                                                                                       },
@@ -2045,7 +2045,7 @@
                     "collector": "Unknown",
                     "date": "2014-06-23",
                     "div": 0.00043923,
-                    "group": "PstS10",
+                    "group": "Other",
                     "host": "Unknown"
                   },
                   "branch_length": 0.00024029,
@@ -2055,7 +2055,7 @@
                         "collector": "Unknown",
                         "date": "2014-06-23",
                         "div": 0.00063669,
-                        "group": "3",
+                        "group": "Other",
                         "host": "Unknown"
                       },
                       "branch_length": 0.00019746,
@@ -2324,7 +2324,7 @@
                                             "collector": "Unknown",
                                             "date": "1978-XX-XX",
                                             "div": 0.0014684499999999998,
-                                            "group": "Old_UK",
+                                            "group": "UK_1978-2011",
                                             "host": "Unknown"
                                           },
                                           "branch_length": 1.013e-05,
@@ -2336,7 +2336,7 @@
                                                 "country": "UK",
                                                 "date": "1978-XX-XX",
                                                 "div": 0.0014694499999999997,
-                                                "group": "Old_UK",
+                                                "group": "UK_1978-2011",
                                                 "host": "Unknown",
                                                 "location": "UK"
                                               },
@@ -2350,7 +2350,7 @@
                                                 "collector": "Unknown",
                                                 "date": "1978-XX-XX",
                                                 "div": 0.00208189,
-                                                "group": "Old_UK",
+                                                "group": "UK_1978-2011",
                                                 "host": "Unknown"
                                               },
                                               "branch_length": 0.00061344,
@@ -2362,7 +2362,7 @@
                                                     "country": "France",
                                                     "date": "2002-XX-XX",
                                                     "div": 0.0020857199999999997,
-                                                    "group": "Old_France",
+                                                    "group": "France_1988-2013",
                                                     "host": "Unknown",
                                                     "location": "France"
                                                   },
@@ -2376,7 +2376,7 @@
                                                     "collector": "Unknown",
                                                     "date": "1988-XX-XX",
                                                     "div": 0.0021395299999999997,
-                                                    "group": "Old_UK",
+                                                    "group": "UK_1978-2011",
                                                     "host": "Unknown"
                                                   },
                                                   "branch_length": 5.764e-05,
@@ -2386,7 +2386,7 @@
                                                         "collector": "Unknown",
                                                         "date": "1988-XX-XX",
                                                         "div": 0.00215505,
-                                                        "group": "Old_UK",
+                                                        "group": "UK_1978-2011",
                                                         "host": "Unknown"
                                                       },
                                                       "branch_length": 1.552e-05,
@@ -2398,7 +2398,7 @@
                                                             "country": "UK",
                                                             "date": "2011-XX-XX",
                                                             "div": 0.00215605,
-                                                            "group": "Old_UK",
+                                                            "group": "UK_1978-2011",
                                                             "host": "KWS_Sterling",
                                                             "location": "Bedfordshire"
                                                           },
@@ -2412,7 +2412,7 @@
                                                             "collector": "Unknown",
                                                             "date": "1988-XX-XX",
                                                             "div": 0.00215605,
-                                                            "group": "Old_UK",
+                                                            "group": "UK_1978-2011",
                                                             "host": "Unknown"
                                                           },
                                                           "branch_length": 1e-06,
@@ -2424,7 +2424,7 @@
                                                                 "country": "France",
                                                                 "date": "1988-XX-XX",
                                                                 "div": 0.00215709,
-                                                                "group": "Old_France",
+                                                                "group": "France_1988-2013",
                                                                 "host": "Unknown",
                                                                 "location": "France"
                                                               },
@@ -2440,7 +2440,7 @@
                                                                 "country": "UK",
                                                                 "date": "2003-XX-XX",
                                                                 "div": 0.00215705,
-                                                                "group": "Old_UK",
+                                                                "group": "UK_1978-2011",
                                                                 "host": "Brock",
                                                                 "location": "UK"
                                                               },
@@ -2464,7 +2464,7 @@
                                                         "collector": "Unknown",
                                                         "date": "1988-XX-XX",
                                                         "div": 0.0021614699999999995,
-                                                        "group": "Old_UK",
+                                                        "group": "UK_1978-2011",
                                                         "host": "Unknown"
                                                       },
                                                       "branch_length": 2.194e-05,
@@ -2476,7 +2476,7 @@
                                                             "country": "UK",
                                                             "date": "1988-XX-XX",
                                                             "div": 0.0021624699999999997,
-                                                            "group": "Old_UK",
+                                                            "group": "UK_1978-2011",
                                                             "host": "Unknown",
                                                             "location": "UK"
                                                           },
@@ -2490,7 +2490,7 @@
                                                             "collector": "Unknown",
                                                             "date": "1978-XX-XX",
                                                             "div": 0.0021624699999999997,
-                                                            "group": "Old_UK",
+                                                            "group": "UK_1978-2011",
                                                             "host": "Unknown"
                                                           },
                                                           "branch_length": 1e-06,
@@ -2502,7 +2502,7 @@
                                                                 "country": "UK",
                                                                 "date": "1978-XX-XX",
                                                                 "div": 0.00216347,
-                                                                "group": "Old_UK",
+                                                                "group": "UK_1978-2011",
                                                                 "host": "Unknown",
                                                                 "location": "UK"
                                                               },
@@ -2516,7 +2516,7 @@
                                                                 "collector": "Unknown",
                                                                 "date": "1987-XX-XX",
                                                                 "div": 0.00216347,
-                                                                "group": "Old_UK",
+                                                                "group": "UK_1978-2011",
                                                                 "host": "Unknown"
                                                               },
                                                               "branch_length": 1e-06,
@@ -2528,7 +2528,7 @@
                                                                     "country": "UK",
                                                                     "date": "1987-XX-XX",
                                                                     "div": 0.00216447,
-                                                                    "group": "Old_UK",
+                                                                    "group": "UK_1978-2011",
                                                                     "host": "Unknown",
                                                                     "location": "UK"
                                                                   },
@@ -2542,7 +2542,7 @@
                                                                     "collector": "Unknown",
                                                                     "date": "1987-XX-XX",
                                                                     "div": 0.00216447,
-                                                                    "group": "Old_UK",
+                                                                    "group": "UK_1978-2011",
                                                                     "host": "Unknown"
                                                                   },
                                                                   "branch_length": 1e-06,
@@ -2554,7 +2554,7 @@
                                                                         "country": "UK",
                                                                         "date": "2008-XX-XX",
                                                                         "div": 0.00216547,
-                                                                        "group": "Old_UK",
+                                                                        "group": "UK_1978-2011",
                                                                         "host": "Solstice",
                                                                         "location": "UK"
                                                                       },
@@ -2568,7 +2568,7 @@
                                                                         "collector": "Unknown",
                                                                         "date": "1987-XX-XX",
                                                                         "div": 0.00216547,
-                                                                        "group": "Old_UK",
+                                                                        "group": "UK_1978-2011",
                                                                         "host": "Unknown"
                                                                       },
                                                                       "branch_length": 1e-06,
@@ -2580,7 +2580,7 @@
                                                                             "country": "UK",
                                                                             "date": "1987-XX-XX",
                                                                             "div": 0.00216647,
-                                                                            "group": "Old_UK",
+                                                                            "group": "UK_1978-2011",
                                                                             "host": "Unknown",
                                                                             "location": "UK"
                                                                           },
@@ -2594,7 +2594,7 @@
                                                                             "collector": "Unknown",
                                                                             "date": "1988-XX-XX",
                                                                             "div": 0.00216647,
-                                                                            "group": "Old_UK",
+                                                                            "group": "UK_1978-2011",
                                                                             "host": "Unknown"
                                                                           },
                                                                           "branch_length": 1e-06,
@@ -2606,7 +2606,7 @@
                                                                                 "country": "UK",
                                                                                 "date": "1988-XX-XX",
                                                                                 "div": 0.0021674700000000003,
-                                                                                "group": "Old_UK",
+                                                                                "group": "UK_1978-2011",
                                                                                 "host": "Unknown",
                                                                                 "location": "UK"
                                                                               },
@@ -2620,7 +2620,7 @@
                                                                                 "collector": "Unknown",
                                                                                 "date": "1988-XX-XX",
                                                                                 "div": 0.0021674700000000003,
-                                                                                "group": "Old_UK",
+                                                                                "group": "UK_1978-2011",
                                                                                 "host": "Unknown"
                                                                               },
                                                                               "branch_length": 1e-06,
@@ -2630,7 +2630,7 @@
                                                                                     "collector": "Unknown",
                                                                                     "date": "1988-XX-XX",
                                                                                     "div": 0.0021684700000000005,
-                                                                                    "group": "Old_UK",
+                                                                                    "group": "UK_1978-2011",
                                                                                     "host": "Unknown"
                                                                                   },
                                                                                   "branch_length": 1e-06,
@@ -2642,7 +2642,7 @@
                                                                                         "country": "UK",
                                                                                         "date": "1988-XX-XX",
                                                                                         "div": 0.0021694700000000006,
-                                                                                        "group": "Old_UK",
+                                                                                        "group": "UK_1978-2011",
                                                                                         "host": "Unknown",
                                                                                         "location": "UK"
                                                                                       },
@@ -2658,7 +2658,7 @@
                                                                                         "country": "France",
                                                                                         "date": "1989-XX-XX",
                                                                                         "div": 0.0021780200000000006,
-                                                                                        "group": "Old_France",
+                                                                                        "group": "France_1988-2013",
                                                                                         "host": "Unknown",
                                                                                         "location": "France"
                                                                                       },
@@ -2677,7 +2677,7 @@
                                                                                     "collector": "Unknown",
                                                                                     "date": "1988-XX-XX",
                                                                                     "div": 0.0021684700000000005,
-                                                                                    "group": "Old_UK",
+                                                                                    "group": "UK_1978-2011",
                                                                                     "host": "Unknown"
                                                                                   },
                                                                                   "branch_length": 1e-06,
@@ -2689,7 +2689,7 @@
                                                                                         "country": "UK",
                                                                                         "date": "1988-XX-XX",
                                                                                         "div": 0.0021694700000000006,
-                                                                                        "group": "Old_UK",
+                                                                                        "group": "UK_1978-2011",
                                                                                         "host": "Unknown",
                                                                                         "location": "UK"
                                                                                       },
@@ -2703,7 +2703,7 @@
                                                                                         "collector": "Unknown",
                                                                                         "date": "1988-XX-XX",
                                                                                         "div": 0.0021694700000000006,
-                                                                                        "group": "Old_UK",
+                                                                                        "group": "UK_1978-2011",
                                                                                         "host": "Unknown"
                                                                                       },
                                                                                       "branch_length": 1e-06,
@@ -2715,7 +2715,7 @@
                                                                                             "country": "UK",
                                                                                             "date": "1988-XX-XX",
                                                                                             "div": 0.0021704700000000007,
-                                                                                            "group": "Old_UK",
+                                                                                            "group": "UK_1978-2011",
                                                                                             "host": "Unknown",
                                                                                             "location": "UK"
                                                                                           },
@@ -2729,7 +2729,7 @@
                                                                                             "collector": "Unknown",
                                                                                             "date": "2008-XX-XX",
                                                                                             "div": 0.0021704700000000007,
-                                                                                            "group": "Old_UK",
+                                                                                            "group": "UK_1978-2011",
                                                                                             "host": "Unknown"
                                                                                           },
                                                                                           "branch_length": 1e-06,
@@ -2741,7 +2741,7 @@
                                                                                                 "country": "UK",
                                                                                                 "date": "2008-XX-XX",
                                                                                                 "div": 0.002171470000000001,
-                                                                                                "group": "Old_UK",
+                                                                                                "group": "UK_1978-2011",
                                                                                                 "host": "Timber",
                                                                                                 "location": "UK"
                                                                                               },
@@ -2755,7 +2755,7 @@
                                                                                                 "collector": "Unknown",
                                                                                                 "date": "2001-XX-XX",
                                                                                                 "div": 0.002171470000000001,
-                                                                                                "group": "Old_France",
+                                                                                                "group": "UK_1978-2011",
                                                                                                 "host": "Unknown"
                                                                                               },
                                                                                               "branch_length": 1e-06,
@@ -2767,7 +2767,7 @@
                                                                                                     "country": "France",
                                                                                                     "date": "2001-XX-XX",
                                                                                                     "div": 0.002172470000000001,
-                                                                                                    "group": "Old_France",
+                                                                                                    "group": "France_1988-2013",
                                                                                                     "host": "Unknown",
                                                                                                     "location": "France"
                                                                                                   },
@@ -2781,7 +2781,7 @@
                                                                                                     "collector": "Unknown",
                                                                                                     "date": "2001-XX-XX",
                                                                                                     "div": 0.002172470000000001,
-                                                                                                    "group": "Old_France",
+                                                                                                    "group": "UK_1978-2011",
                                                                                                     "host": "Unknown"
                                                                                                   },
                                                                                                   "branch_length": 1e-06,
@@ -2793,7 +2793,7 @@
                                                                                                         "country": "UK",
                                                                                                         "date": "2001-XX-XX",
                                                                                                         "div": 0.002173470000000001,
-                                                                                                        "group": "Old_UK",
+                                                                                                        "group": "UK_1978-2011",
                                                                                                         "host": "Unknown",
                                                                                                         "location": "UK"
                                                                                                       },
@@ -2807,7 +2807,7 @@
                                                                                                         "collector": "Unknown",
                                                                                                         "date": "2002-XX-XX",
                                                                                                         "div": 0.002173470000000001,
-                                                                                                        "group": "Old_France",
+                                                                                                        "group": "France_1988-2013",
                                                                                                         "host": "Unknown"
                                                                                                       },
                                                                                                       "branch_length": 1e-06,
@@ -2819,7 +2819,7 @@
                                                                                                             "country": "France",
                                                                                                             "date": "2002-XX-XX",
                                                                                                             "div": 0.0021744700000000013,
-                                                                                                            "group": "Old_France",
+                                                                                                            "group": "France_1988-2013",
                                                                                                             "host": "Unknown",
                                                                                                             "location": "France"
                                                                                                           },
@@ -2833,7 +2833,7 @@
                                                                                                             "collector": "Unknown",
                                                                                                             "date": "1989-XX-XX",
                                                                                                             "div": 0.0021744700000000013,
-                                                                                                            "group": "Old_France",
+                                                                                                            "group": "France_1988-2013",
                                                                                                             "host": "Unknown"
                                                                                                           },
                                                                                                           "branch_length": 1e-06,
@@ -2845,7 +2845,7 @@
                                                                                                                 "country": "France",
                                                                                                                 "date": "2000-XX-XX",
                                                                                                                 "div": 0.002178950000000001,
-                                                                                                                "group": "Old_France",
+                                                                                                                "group": "France_1988-2013",
                                                                                                                 "host": "Unknown",
                                                                                                                 "location": "France"
                                                                                                               },
@@ -2861,7 +2861,7 @@
                                                                                                                 "country": "France",
                                                                                                                 "date": "1989-XX-XX",
                                                                                                                 "div": 0.0021754700000000014,
-                                                                                                                "group": "Old_France",
+                                                                                                                "group": "France_1988-2013",
                                                                                                                 "host": "Unknown",
                                                                                                                 "location": "France"
                                                                                                               },
@@ -2980,7 +2980,7 @@
                             "collector": "Unknown",
                             "date": "2014-06-23",
                             "div": 0.00066237,
-                            "group": "Triticale",
+                            "group": "Other",
                             "host": "Unknown"
                           },
                           "branch_length": 2.568e-05,
@@ -3585,7 +3585,7 @@
                                                     "collector": "Unknown",
                                                     "date": "2011-XX-XX",
                                                     "div": 0.00625903,
-                                                    "group": "Other",
+                                                    "group": "UK_1978-2011",
                                                     "host": "Unknown"
                                                   },
                                                   "branch_length": 0.00042777,
@@ -3597,7 +3597,7 @@
                                                         "country": "UK",
                                                         "date": "2011-XX-XX",
                                                         "div": 0.00684937,
-                                                        "group": "Old_UK",
+                                                        "group": "UK_1978-2011",
                                                         "host": "Unknown",
                                                         "location": "UK"
                                                       },
@@ -3611,7 +3611,7 @@
                                                         "collector": "Unknown",
                                                         "date": "2011-XX-XX",
                                                         "div": 0.0077779599999999996,
-                                                        "group": "Other",
+                                                        "group": "UK_1978-2011",
                                                         "host": "Unknown"
                                                       },
                                                       "branch_length": 0.00151893,
@@ -3623,7 +3623,7 @@
                                                             "country": "UK",
                                                             "date": "2011-XX-XX",
                                                             "div": 0.00788906,
-                                                            "group": "Old_UK",
+                                                            "group": "UK_1978-2011",
                                                             "host": "Unknown",
                                                             "location": "UK"
                                                           },
@@ -4376,7 +4376,7 @@
                                                                 "collector": "Unknown",
                                                                 "date": "2013-XX-XX",
                                                                 "div": 0.0011408899999999994,
-                                                                "group": "Old_France",
+                                                                "group": "UK_1978-2011",
                                                                 "host": "Unknown"
                                                               },
                                                               "branch_length": 1e-06,
@@ -4388,7 +4388,7 @@
                                                                     "country": "France",
                                                                     "date": "2013-XX-XX",
                                                                     "div": 0.0011418899999999994,
-                                                                    "group": "Old_France",
+                                                                    "group": "France_1988-2013",
                                                                     "host": "Unknown",
                                                                     "location": "France"
                                                                   },
@@ -4404,7 +4404,7 @@
                                                                     "country": "UK",
                                                                     "date": "2011-XX-XX",
                                                                     "div": 0.0011418899999999994,
-                                                                    "group": "Old_UK",
+                                                                    "group": "UK_1978-2011",
                                                                     "host": "Warrior",
                                                                     "location": "Lincolnshire"
                                                                   },

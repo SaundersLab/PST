@@ -174,28 +174,12 @@
           "#5A545E"
         ],
         [
-          "Ethiopia",
-          "#C4825C"
-        ],
-        [
           "PstS1",
           "#364271"
         ],
         [
           "PstS4",
           "#C5B358"
-        ],
-        [
-          "Old_France",
-          "#446651"
-        ],
-        [
-          "Old_UK",
-          "#646464"
-        ],
-        [
-          "Reference",
-          "#FBA52B"
         ],
         [
           "Other",
@@ -229,7 +213,6 @@
   },
   "filters": [
     "country",
-    "region",
     "authors",
     "host",
     "group",
@@ -854,6 +837,6 @@
     "map"
   ],
   "title": "Analysis of worldwide wheat yellow rust samples",
-  "updated": "01 May 2019",
+  "updated": "09 May 2019",
   "virus_count": 271
 }
