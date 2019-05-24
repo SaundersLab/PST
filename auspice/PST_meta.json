@@ -206,6 +206,37 @@
       "legendTitle": "genetic group",
       "menuItem": "genetic group",
       "type": "discrete"
+    },
+    "region": {
+      "color_map": [
+        [
+          "oceania",
+          "#00FFFF"
+        ],
+        [
+          "africa",
+          "#FF7F00"
+        ],
+        [
+          "europe",
+          "#0000FF"
+        ],
+        [
+          "south_america",
+          "#FFFF00"
+        ],
+        [
+          "north_america",
+          "#00FF00"
+        ],
+        [
+          "asia",
+          "#FF0000"
+        ]
+      ],
+      "key": "region",
+      "legendTitle": "region",
+      "menuItem": "region"
     }
   },
   "defaults": {
@@ -826,6 +857,32 @@
         "latitude": 50.80407,
         "longitude": 3.341907
       }
+    },
+    "region": {
+      "africa": {
+        "latitude": 4.070194,
+        "longitude": 21.824559
+      },
+      "asia": {
+        "latitude": 34.047863,
+        "longitude": 100.619652
+      },
+      "europe": {
+        "latitude": 49.646237,
+        "longitude": 10.799454
+      },
+      "north_america": {
+        "latitude": 28.2367447,
+        "longitude": -97.738017
+      },
+      "oceania": {
+        "latitude": -25.0562891,
+        "longitude": 152.008576
+      },
+      "south_america": {
+        "latitude": -13.083583,
+        "longitude": -58.470721
+      }
     }
   },
   "maintainer": [
@@ -837,6 +894,6 @@
     "map"
   ],
   "title": "Analysis of worldwide wheat yellow rust samples",
-  "updated": "09 May 2019",
+  "updated": "24 May 2019",
   "virus_count": 271
 }
