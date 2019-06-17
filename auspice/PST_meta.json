@@ -162,6 +162,10 @@
           "#6BA557"
         ],
         [
+          "3",
+          "#73BFC0"
+        ],
+        [
           "PstS10",
           "#D0474E"
         ],
@@ -206,28 +210,28 @@
     "region": {
       "color_map": [
         [
-          "africa",
-          "#FF7F00"
+          "oceania",
+          "#00FFFF"
         ],
         [
-          "asia",
-          "#FF0000"
+          "africa",
+          "#FF7F00"
         ],
         [
           "europe",
           "#0000FF"
         ],
         [
+          "south_america",
+          "#FFFF00"
+        ],
+        [
           "north_america",
           "#00FF00"
         ],
         [
-          "oceania",
-          "#00FFFF"
-        ],
-        [
-          "south_america",
-          "#FFFF00"
+          "asia",
+          "#FF0000"
         ]
       ],
       "key": "region",
@@ -890,6 +894,6 @@
     "map"
   ],
   "title": "Analysis of worldwide wheat yellow rust samples",
-  "updated": "17 Jun 2019",
+  "updated": "24 May 2019",
   "virus_count": 271
 }
