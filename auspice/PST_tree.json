@@ -2132,7 +2132,7 @@
                             "collector": "Unknown",
                             "date": "2014-06-23",
                             "div": 0.00074791,
-                            "group": "3",
+                            "group": "Cluster_3_(Hubbard_et_al.,_2015)",
                             "host": "Unknown"
                           },
                           "branch_length": 0.00011122,
@@ -2144,7 +2144,7 @@
                                 "country": "UK",
                                 "date": "2013-06-14",
                                 "div": 0.00074891,
-                                "group": "3",
+                                "group": "Cluster_3_(Hubbard_et_al.,_2015)",
                                 "host": "ReR138",
                                 "location": "Welbourne",
                                 "region": "europe"
@@ -2159,7 +2159,7 @@
                                 "collector": "Unknown",
                                 "date": "2014-06-23",
                                 "div": 0.00103331,
-                                "group": "3",
+                                "group": "Cluster_3_(Hubbard_et_al.,_2015)",
                                 "host": "Unknown"
                               },
                               "branch_length": 0.0002854,
@@ -2171,7 +2171,7 @@
                                     "country": "UK",
                                     "date": "2014-06-23",
                                     "div": 0.00104419,
-                                    "group": "3",
+                                    "group": "Cluster_3_(Hubbard_et_al.,_2015)",
                                     "host": "KWS_Santiago",
                                     "location": "Wolferton",
                                     "region": "europe"
@@ -2186,7 +2186,7 @@
                                     "collector": "Unknown",
                                     "date": "2014-06-04",
                                     "div": 0.00136262,
-                                    "group": "3",
+                                    "group": "Cluster_3_(Hubbard_et_al.,_2015)",
                                     "host": "Unknown"
                                   },
                                   "branch_length": 0.00032931,
@@ -2198,7 +2198,7 @@
                                         "country": "Germany",
                                         "date": "2014-06-04",
                                         "div": 0.0013636199999999998,
-                                        "group": "3",
+                                        "group": "Cluster_3_(Hubbard_et_al.,_2015)",
                                         "host": "Victo",
                                         "location": "Ruchheim",
                                         "region": "europe"
@@ -2213,7 +2213,7 @@
                                         "collector": "Unknown",
                                         "date": "2013-XX-XX",
                                         "div": 0.00145832,
-                                        "group": "3",
+                                        "group": "Cluster_3_(Hubbard_et_al.,_2015)",
                                         "host": "Unknown"
                                       },
                                       "branch_length": 9.57e-05,
@@ -2223,7 +2223,7 @@
                                             "collector": "Unknown",
                                             "date": "2013-XX-XX",
                                             "div": 0.0014593199999999998,
-                                            "group": "3",
+                                            "group": "Cluster_3_(Hubbard_et_al.,_2015)",
                                             "host": "Solstice"
                                           },
                                           "branch_length": 1e-06,
@@ -2235,7 +2235,7 @@
                                                 "country": "UK",
                                                 "date": "2013-XX-XX",
                                                 "div": 0.0014603199999999998,
-                                                "group": "3",
+                                                "group": "Cluster_3_(Hubbard_et_al.,_2015)",
                                                 "host": "Solstice",
                                                 "location": "Terrington_St_Clement",
                                                 "region": "europe"
@@ -2250,7 +2250,7 @@
                                                 "collector": "Unknown",
                                                 "date": "2013-XX-XX",
                                                 "div": 0.0014603199999999998,
-                                                "group": "3",
+                                                "group": "Cluster_3_(Hubbard_et_al.,_2015)",
                                                 "host": "Crusoe"
                                               },
                                               "branch_length": 1e-06,
@@ -2262,7 +2262,7 @@
                                                     "country": "UK",
                                                     "date": "2013-XX-XX",
                                                     "div": 0.0014613199999999997,
-                                                    "group": "3",
+                                                    "group": "Cluster_3_(Hubbard_et_al.,_2015)",
                                                     "host": "Crusoe",
                                                     "location": "UK",
                                                     "region": "europe"
@@ -2277,7 +2277,7 @@
                                                     "collector": "Unknown",
                                                     "date": "2013-06-14",
                                                     "div": 0.0014613199999999997,
-                                                    "group": "3",
+                                                    "group": "Cluster_3_(Hubbard_et_al.,_2015)",
                                                     "host": "Recital"
                                                   },
                                                   "branch_length": 1e-06,
@@ -2289,7 +2289,7 @@
                                                         "country": "UK",
                                                         "date": "2013-06-14",
                                                         "div": 0.0014623199999999996,
-                                                        "group": "3",
+                                                        "group": "Cluster_3_(Hubbard_et_al.,_2015)",
                                                         "host": "Recital",
                                                         "location": "Welbourne",
                                                         "region": "europe"
@@ -2304,7 +2304,7 @@
                                                         "collector": "Unknown",
                                                         "date": "2013-06-14",
                                                         "div": 0.0014623199999999996,
-                                                        "group": "3",
+                                                        "group": "Cluster_3_(Hubbard_et_al.,_2015)",
                                                         "host": "Audace"
                                                       },
                                                       "branch_length": 1e-06,
@@ -2316,7 +2316,7 @@
                                                             "country": "UK",
                                                             "date": "2013-06-14",
                                                             "div": 0.0014656199999999995,
-                                                            "group": "3",
+                                                            "group": "Cluster_3_(Hubbard_et_al.,_2015)",
                                                             "host": "Audace",
                                                             "location": "Welbourne",
                                                             "region": "europe"
@@ -2331,7 +2331,7 @@
                                                             "collector": "Unknown",
                                                             "date": "2013-06-13",
                                                             "div": 0.0014633199999999995,
-                                                            "group": "3",
+                                                            "group": "Cluster_3_(Hubbard_et_al.,_2015)",
                                                             "host": "KWS_Santiago"
                                                           },
                                                           "branch_length": 1e-06,
@@ -2343,7 +2343,7 @@
                                                                 "country": "UK",
                                                                 "date": "2013-05-29",
                                                                 "div": 0.0014643199999999994,
-                                                                "group": "3",
+                                                                "group": "Cluster_3_(Hubbard_et_al.,_2015)",
                                                                 "host": "Oakley",
                                                                 "location": "Caythorpe",
                                                                 "region": "europe"
@@ -2360,7 +2360,7 @@
                                                                 "country": "UK",
                                                                 "date": "2013-06-13",
                                                                 "div": 0.0014643199999999994,
-                                                                "group": "3",
+                                                                "group": "Cluster_3_(Hubbard_et_al.,_2015)",
                                                                 "host": "KWS_Santiago",
                                                                 "location": "Boothby_Graffoe",
                                                                 "region": "europe"
