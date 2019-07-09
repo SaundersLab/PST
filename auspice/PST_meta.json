@@ -96,7 +96,7 @@
         ],
         [
           "Kenya",
-          "#D9D9F3"
+          "#BEADED"
         ],
         [
           "New_Zealand",
@@ -145,6 +145,10 @@
         [
           "Uzbekistan",
           "#238E68"
+        ],
+        [
+          "Zimbabwe",
+          "#14F624"
         ]
       ],
       "key": "country",
@@ -162,16 +166,12 @@
           "#6BA557"
         ],
         [
-          "PstS9_v17",
-          "#14F624"
-        ],
-        [
           "PstS10",
           "#D0474E"
         ],
         [
           "PstS8",
-          "#5A545E"
+          "#5B4836"
         ],
         [
           "PstS1",
@@ -182,8 +182,20 @@
           "#C5B358"
         ],
         [
+          "France_1988-2013",
+          "#495C55"
+        ],
+        [
+          "UK_1978-2011",
+          "#646464"
+        ],
+        [
+          "Cluster_3_(Hubbard_et_al.,_2015)",
+          "#73BFC0"
+        ],
+        [
           "Other",
-          "#D074A2"
+          "#F74ABD"
         ],
         [
           "PstS2_v27",
@@ -195,11 +207,11 @@
         ],
         [
           "PstS6",
-          "#FFED10"
+          "#FBA52B"
         ],
         [
-          "Cluster_3_(Hubbard_et_al.,_2015)",
-          "#73BFC0"
+          "PstS9_v17",
+          "#14F624"
         ]
       ],
       "key": "group",
@@ -350,6 +362,10 @@
       "Uzbekistan": {
         "latitude": 41.377491,
         "longitude": 64.585258
+      },
+      "Zimbabwe": {
+        "latitude": -19.307486,
+        "longitude": 29.7968377
       }
     },
     "location": {
@@ -853,6 +869,10 @@
         "latitude": 53.959965,
         "longitude": -1.087298
       },
+      "Zimbabwe": {
+        "latitude": -19.015438,
+        "longitude": 29.154857
+      },
       "Zwevegem": {
         "latitude": 50.80407,
         "longitude": 3.341907
@@ -894,6 +914,6 @@
     "map"
   ],
   "title": "Analysis of worldwide wheat yellow rust samples",
-  "updated": "19 Jun 2019",
-  "virus_count": 271
+  "updated": "09 Jul 2019",
+  "virus_count": 281
 }
