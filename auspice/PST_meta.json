@@ -187,7 +187,7 @@
         ],
         [
           "UK_1978-2011",
-          "#646464"
+          "#F74ABD"
         ],
         [
           "Cluster_3_(Hubbard_et_al.,_2015)",
@@ -195,7 +195,7 @@
         ],
         [
           "Other",
-          "#F74ABD"
+          "#646464"
         ],
         [
           "PstS2_v27",
@@ -914,6 +914,6 @@
     "map"
   ],
   "title": "Analysis of worldwide wheat yellow rust samples",
-  "updated": "09 Jul 2019",
+  "updated": "23 Jul 2019",
   "virus_count": 281
 }
