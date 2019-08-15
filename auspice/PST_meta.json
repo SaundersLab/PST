@@ -31,9 +31,9 @@
       "title": "Race-specific adult-plant resistance in winter wheat to stripe rust and characterization of pathogen virulence patterns"
     },
     "Radhakrishnan et al., 2019": {
-      "journal": "in press",
+      "journal": "BMC Biology",
       "n": 155,
-      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/",
+      "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/31405370",
       "title": "Mobile and real-time plant disease (MARPLE) diagnostics for strain-level identification of complex fungal pathogens"
     },
     "Walter et al., 2016": {
@@ -914,6 +914,6 @@
     "map"
   ],
   "title": "Analysis of worldwide wheat yellow rust samples",
-  "updated": "23 Jul 2019",
+  "updated": "15 Aug 2019",
   "virus_count": 281
 }
