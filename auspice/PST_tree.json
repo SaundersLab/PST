@@ -4520,7 +4520,7 @@
                                                         "div": 0.008334803206645107,
                                                         "group": "PstS8",
                                                         "host": "Princeps",
-                                                        "location": "Jaroslawiec",
+                                                        "location": "Jarosławiec",
                                                         "region": "europe"
                                                       },
                                                       "branch_length": 1.03e-06,
@@ -4927,7 +4927,7 @@
                                                                     {
                                                                       "attr": {
                                                                         "authors": "Bueno-Sancho et al., 2017",
-                                                                        "collector": "Andrea Hankova",
+                                                                        "collector": "Andrea Hanková",
                                                                         "country": "Slovakia",
                                                                         "date": "2014-05-26",
                                                                         "div": 0.00811728393128888,
@@ -5062,7 +5062,7 @@
                                                                                         {
                                                                                           "attr": {
                                                                                             "authors": "Bueno-Sancho et al., 2017",
-                                                                                            "collector": "Andrea Hankova",
+                                                                                            "collector": "Andrea Hanková",
                                                                                             "country": "Slovakia",
                                                                                             "date": "2014-05-26",
                                                                                             "div": 0.008122436102285262,
@@ -5186,7 +5186,7 @@
                                                                                                                 "div": 0.008127588273281644,
                                                                                                                 "group": "PstS7",
                                                                                                                 "host": "Legenda",
-                                                                                                                "location": "Jaroslawiec",
+                                                                                                                "location": "Jarosławiec",
                                                                                                                 "region": "europe"
                                                                                                               },
                                                                                                               "branch_length": 1.03e-06,
