@@ -240,6 +240,10 @@
           "#6BA557"
         ],
         [
+          "Cluster_3_(Hubbard_et_al.,_2015)",
+          "#73BFC0"
+        ],
+        [
           "PstS10",
           "#D0474E"
         ],
@@ -282,10 +286,6 @@
         [
           "PstS9_v17",
           "#14F624"
-        ],
-        [
-          "Cluster_3_(Hubbard_et_al.,_2015)",
-          "#73BFC0"
         ]
       ],
       "key": "group",
