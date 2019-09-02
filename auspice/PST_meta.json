@@ -6,6 +6,72 @@
       "paper_url": "https://www.ncbi.nlm.nih.gov/pubmed/28676811",
       "title": "Yellow Rust Epidemics Worldwide Were Caused by Pathogen Races from Divergent Genetic Lineages"
     },
+    "Boshoff et al., 2019": {
+      "journal": "Plant Disease",
+      "n": 1,
+      "paper_url": "https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-07-19-1395-PDN",
+      "title": "First report of Puccinia striiformis f. sp. Tritici, causing stripe rust of wheat, in Zimbabwe"
+    },
+    "Boshoff et al., 2020": {
+      "journal": "Plant Disease",
+      "n": 1,
+      "paper_url": "https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-07-19-1395-PDN",
+      "title": "First report of Puccinia striiformis f. sp. Tritici, causing stripe rust of wheat, in Zimbabwe"
+    },
+    "Boshoff et al., 2021": {
+      "journal": "Plant Disease",
+      "n": 1,
+      "paper_url": "https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-07-19-1395-PDN",
+      "title": "First report of Puccinia striiformis f. sp. Tritici, causing stripe rust of wheat, in Zimbabwe"
+    },
+    "Boshoff et al., 2022": {
+      "journal": "Plant Disease",
+      "n": 1,
+      "paper_url": "https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-07-19-1395-PDN",
+      "title": "First report of Puccinia striiformis f. sp. Tritici, causing stripe rust of wheat, in Zimbabwe"
+    },
+    "Boshoff et al., 2023": {
+      "journal": "Plant Disease",
+      "n": 1,
+      "paper_url": "https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-07-19-1395-PDN",
+      "title": "First report of Puccinia striiformis f. sp. Tritici, causing stripe rust of wheat, in Zimbabwe"
+    },
+    "Boshoff et al., 2024": {
+      "journal": "Plant Disease",
+      "n": 1,
+      "paper_url": "https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-07-19-1395-PDN",
+      "title": "First report of Puccinia striiformis f. sp. Tritici, causing stripe rust of wheat, in Zimbabwe"
+    },
+    "Boshoff et al., 2025": {
+      "journal": "Plant Disease",
+      "n": 1,
+      "paper_url": "https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-07-19-1395-PDN",
+      "title": "First report of Puccinia striiformis f. sp. Tritici, causing stripe rust of wheat, in Zimbabwe"
+    },
+    "Boshoff et al., 2026": {
+      "journal": "Plant Disease",
+      "n": 1,
+      "paper_url": "https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-07-19-1395-PDN",
+      "title": "First report of Puccinia striiformis f. sp. Tritici, causing stripe rust of wheat, in Zimbabwe"
+    },
+    "Boshoff et al., 2027": {
+      "journal": "Plant Disease",
+      "n": 1,
+      "paper_url": "https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-07-19-1395-PDN",
+      "title": "First report of Puccinia striiformis f. sp. Tritici, causing stripe rust of wheat, in Zimbabwe"
+    },
+    "Boshoff et al., 2028": {
+      "journal": "Plant Disease",
+      "n": 1,
+      "paper_url": "https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-07-19-1395-PDN",
+      "title": "First report of Puccinia striiformis f. sp. Tritici, causing stripe rust of wheat, in Zimbabwe"
+    },
+    "Boshoff et al., 2029": {
+      "journal": "Plant Disease",
+      "n": 1,
+      "paper_url": "https://apsjournals.apsnet.org/doi/abs/10.1094/PDIS-07-19-1395-PDN",
+      "title": "First report of Puccinia striiformis f. sp. Tritici, causing stripe rust of wheat, in Zimbabwe"
+    },
     "Bueno-Sancho et al., 2017": {
       "journal": "Genome Biol Evol (12), 3282-3296 (2017)",
       "n": 137,
@@ -121,6 +187,10 @@
         [
           "Slovakia",
           "#5C4033"
+        ],
+        [
+          "South_Africa",
+          "#F5CCB0"
         ],
         [
           "Spain",
@@ -315,6 +385,10 @@
         "latitude": 1.0,
         "longitude": 38.0
       },
+      "Lesotho": {
+        "latitude": -29.609987,
+        "longitude": 28.233608
+      },
       "New_Zealand": {
         "latitude": -41.500083,
         "longitude": 172.8344077
@@ -338,6 +412,10 @@
       "Slovakia": {
         "latitude": 48.66667,
         "longitude": 19.5
+      },
+      "South_Africa": {
+        "latitude": -28.8166235,
+        "longitude": 24.991639
       },
       "Spain": {
         "latitude": 40.0028028,
@@ -420,6 +498,10 @@
       "Bishop_Burton": {
         "latitude": 53.84535,
         "longitude": -0.50017
+      },
+      "Bloemfontein": {
+        "latitude": -29.085215,
+        "longitude": 26.159576
       },
       "Boothby_Graffoe": {
         "latitude": 53.120864,
@@ -529,6 +611,10 @@
         "latitude": 46.227638,
         "longitude": 2.213749
       },
+      "Free_State": {
+        "latitude": -28.681459,
+        "longitude": 27.065849
+      },
       "Fulbourn": {
         "latitude": 52.18293,
         "longitude": 0.22222
@@ -581,6 +667,10 @@
         "latitude": 52.821499,
         "longitude": 9.18566
       },
+      "Hopetown": {
+        "latitude": -29.62387,
+        "longitude": 24.08602
+      },
       "Humbie": {
         "latitude": 55.85467,
         "longitude": -2.86592
@@ -593,7 +683,7 @@
         "latitude": 12.154883,
         "longitude": 39.631441
       },
-      "Jarosławiec": {
+      "Jaroslawiec": {
         "latitude": 50.907044,
         "longitude": 23.70252
       },
@@ -632,6 +722,10 @@
       "Lay_Gayint_Kebele_07": {
         "latitude": 12.0,
         "longitude": 38.2
+      },
+      "Lesotho": {
+        "latitude": -29.609987,
+        "longitude": 28.233608
       },
       "Limo_Lereba_Roma": {
         "latitude": 5.5,
@@ -684,6 +778,10 @@
       "New_Zealand": {
         "latitude": -40.900558,
         "longitude": 174.885971
+      },
+      "Northern_Cape": {
+        "latitude": -28.854,
+        "longitude": 20.998461
       },
       "Novi_Han": {
         "latitude": 42.605716,
@@ -781,6 +879,10 @@
         "latitude": 51.275348,
         "longitude": -0.401453
       },
+      "Sutherland": {
+        "latitude": -32.410099,
+        "longitude": 20.670528
+      },
       "Sutton_Scotney": {
         "latitude": 51.153216,
         "longitude": -1.337676
@@ -853,6 +955,10 @@
         "latitude": 51.935876,
         "longitude": 13.190991
       },
+      "Western_Cape": {
+        "latitude": -33.227791,
+        "longitude": 21.856859
+      },
       "Wilting_Woreda": {
         "latitude": 9.145,
         "longitude": 40.489673
@@ -914,6 +1020,6 @@
     "map"
   ],
   "title": "Analysis of worldwide wheat yellow rust samples",
-  "updated": "28 Aug 2019",
+  "updated": "02 Sep 2019",
   "virus_count": 281
 }

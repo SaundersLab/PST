@@ -2159,6 +2159,7 @@
                                               "children": [
                                                 {
                                                   "attr": {
+                                                    "authors": "Boshoff et al., 2029",
                                                     "collector": "Unknown",
                                                     "country": "Zimbabwe",
                                                     "date": "2018-XX-XX",
@@ -2175,6 +2176,7 @@
                                                 },
                                                 {
                                                   "attr": {
+                                                    "authors": "Boshoff et al., 2027",
                                                     "collector": "Unknown",
                                                     "country": "Zimbabwe",
                                                     "date": "2018-XX-XX",
@@ -2420,13 +2422,14 @@
                                           "children": [
                                             {
                                               "attr": {
+                                                "authors": "Boshoff et al., 2020",
                                                 "collector": "Unknown",
-                                                "country": "Zimbabwe",
+                                                "country": "South_Africa",
                                                 "date": "2018-XX-XX",
                                                 "div": 0.007851638000734363,
                                                 "group": "Other",
                                                 "host": "Unknown",
-                                                "location": "Zimbabwe",
+                                                "location": "Bloemfontein",
                                                 "region": "africa"
                                               },
                                               "branch_length": 1.03e-06,
@@ -2446,6 +2449,7 @@
                                               "children": [
                                                 {
                                                   "attr": {
+                                                    "authors": "Boshoff et al., 2028",
                                                     "collector": "Unknown",
                                                     "country": "Zimbabwe",
                                                     "date": "2018-XX-XX",
@@ -2472,13 +2476,14 @@
                                                   "children": [
                                                     {
                                                       "attr": {
+                                                        "authors": "Boshoff et al., 2023",
                                                         "collector": "Unknown",
-                                                        "country": "Zimbabwe",
+                                                        "country": "South_Africa",
                                                         "date": "2018-XX-XX",
                                                         "div": 0.007856006710270598,
                                                         "group": "Other",
                                                         "host": "Unknown",
-                                                        "location": "Zimbabwe",
+                                                        "location": "Sutherland",
                                                         "region": "africa"
                                                       },
                                                       "branch_length": 3.34e-06,
@@ -2498,13 +2503,14 @@
                                                       "children": [
                                                         {
                                                           "attr": {
+                                                            "authors": "Boshoff et al., 2021",
                                                             "collector": "Unknown",
-                                                            "country": "Zimbabwe",
+                                                            "country": "Lesotho",
                                                             "date": "2018-XX-XX",
                                                             "div": 0.007854729303332192,
                                                             "group": "Other",
                                                             "host": "Unknown",
-                                                            "location": "Zimbabwe",
+                                                            "location": "Lesotho",
                                                             "region": "africa"
                                                           },
                                                           "branch_length": 1.03e-06,
@@ -2524,13 +2530,14 @@
                                                           "children": [
                                                             {
                                                               "attr": {
+                                                                "authors": "Boshoff et al., 2025",
                                                                 "collector": "Unknown",
-                                                                "country": "Zimbabwe",
+                                                                "country": "South_Africa",
                                                                 "date": "2018-XX-XX",
                                                                 "div": 0.007855759737531469,
                                                                 "group": "Other",
                                                                 "host": "Unknown",
-                                                                "location": "Zimbabwe",
+                                                                "location": "Free_State",
                                                                 "region": "africa"
                                                               },
                                                               "branch_length": 1.03e-06,
@@ -2550,13 +2557,14 @@
                                                               "children": [
                                                                 {
                                                                   "attr": {
+                                                                    "authors": "Boshoff et al., 2024",
                                                                     "collector": "Unknown",
-                                                                    "country": "Zimbabwe",
+                                                                    "country": "South_Africa",
                                                                     "date": "2018-XX-XX",
                                                                     "div": 0.007856790171730745,
                                                                     "group": "Other",
                                                                     "host": "Unknown",
-                                                                    "location": "Zimbabwe",
+                                                                    "location": "Free_State",
                                                                     "region": "africa"
                                                                   },
                                                                   "branch_length": 1.03e-06,
@@ -2576,13 +2584,14 @@
                                                                   "children": [
                                                                     {
                                                                       "attr": {
+                                                                        "authors": "Boshoff et al., 2022",
                                                                         "collector": "Unknown",
-                                                                        "country": "Zimbabwe",
+                                                                        "country": "South_Africa",
                                                                         "date": "2018-XX-XX",
                                                                         "div": 0.007857820605930021,
                                                                         "group": "Other",
                                                                         "host": "Unknown",
-                                                                        "location": "Zimbabwe",
+                                                                        "location": "Western_Cape",
                                                                         "region": "africa"
                                                                       },
                                                                       "branch_length": 1.03e-06,
@@ -2629,13 +2638,14 @@
                                                                           "children": [
                                                                             {
                                                                               "attr": {
+                                                                                "authors": "Boshoff et al., 2019",
                                                                                 "collector": "Unknown",
-                                                                                "country": "Zimbabwe",
+                                                                                "country": "South_Africa",
                                                                                 "date": "2018-XX-XX",
                                                                                 "div": 0.007921967523278754,
                                                                                 "group": "Other",
                                                                                 "host": "Unknown",
-                                                                                "location": "Zimbabwe",
+                                                                                "location": "Hopetown",
                                                                                 "region": "africa"
                                                                               },
                                                                               "branch_length": 1.03e-06,
@@ -2645,13 +2655,14 @@
                                                                             },
                                                                             {
                                                                               "attr": {
+                                                                                "authors": "Boshoff et al., 2026",
                                                                                 "collector": "Unknown",
-                                                                                "country": "Zimbabwe",
+                                                                                "country": "South_Africa",
                                                                                 "date": "2018-XX-XX",
                                                                                 "div": 0.007921967523278754,
                                                                                 "group": "Other",
                                                                                 "host": "Unknown",
-                                                                                "location": "Zimbabwe",
+                                                                                "location": "Northern_Cape",
                                                                                 "region": "africa"
                                                                               },
                                                                               "branch_length": 1.03e-06,
@@ -4520,7 +4531,7 @@
                                                         "div": 0.008334803206645107,
                                                         "group": "PstS8",
                                                         "host": "Princeps",
-                                                        "location": "Jarosławiec",
+                                                        "location": "Jaroslawiec",
                                                         "region": "europe"
                                                       },
                                                       "branch_length": 1.03e-06,
@@ -4927,7 +4938,7 @@
                                                                     {
                                                                       "attr": {
                                                                         "authors": "Bueno-Sancho et al., 2017",
-                                                                        "collector": "Andrea Hanková",
+                                                                        "collector": "Andrea Hankova",
                                                                         "country": "Slovakia",
                                                                         "date": "2014-05-26",
                                                                         "div": 0.00811728393128888,
@@ -5062,7 +5073,7 @@
                                                                                         {
                                                                                           "attr": {
                                                                                             "authors": "Bueno-Sancho et al., 2017",
-                                                                                            "collector": "Andrea Hanková",
+                                                                                            "collector": "Andrea Hankova",
                                                                                             "country": "Slovakia",
                                                                                             "date": "2014-05-26",
                                                                                             "div": 0.008122436102285262,
@@ -5186,7 +5197,7 @@
                                                                                                                 "div": 0.008127588273281644,
                                                                                                                 "group": "PstS7",
                                                                                                                 "host": "Legenda",
-                                                                                                                "location": "Jarosławiec",
+                                                                                                                "location": "Jaroslawiec",
                                                                                                                 "region": "europe"
                                                                                                               },
                                                                                                               "branch_length": 1.03e-06,
