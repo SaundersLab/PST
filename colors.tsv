@@ -1,0 +1,50 @@
+Country	Austria	#238E23
+Country	Azerbaijan	#2F4F2F
+Country	Belgium	#FF00FF
+Country	Bulgaria	#0000FF
+Country	Canada	#236B8E
+Country	Chile	#CFB53B
+Country	China	#527F76
+Country	Croatia	#007FFF
+Country	Czechia	#9932CD
+Country	Denmark	#00FFFF
+Country	Ethiopia	#B5A642
+Country	France	#545454
+Country	Germany	#DB70DB
+Country	Italy	#CC3299
+Country	Kenya	#BEADED
+Country	Lesotho	#FF0000
+Country	New Zealand	#99CC32
+Country	Pakistan	#DB9370
+Country	Poland	#871F78
+Country	Romania	#38B0DE
+Country	Serbia	#70DB93
+Country	Slovakia	#5C4033
+Country	South Africa	#F5CCB0
+Country	Spain	#FF7F00
+Country	Sweden	#5F9F9F
+Country	Turkey	#FFFF00
+Country	UK	#855E42
+Country	USA	#5959AB
+Country	Uzbekistan	#238E68
+Country	Zimbabwe	#14F624
+Group	PstS7	#9C577F
+Group	Triticale	#6BA557
+Group	PstS10	#D0474E
+Group	PstS8	#5B4836
+Group	PstS1	#364271
+Group	PstS4	#C5B358
+Group	France 1988-2013	#495C55
+Group	UK 1978-2011	#F74ABD
+Group	Cluster 3 (Hubbard et al., 2015)	#73BFC0
+Group	Other	#646464
+Group	PstS2 v27	#008080
+Group	PstS5 v17	#1022FF
+Group	PstS6	#FBA52B
+Group	PstS9 v17	#14F624
+Region	Africa	#FF7F00
+Region	Asia	#FF0000
+Region	Europe	#0000FF
+Region	North America	#00FF00
+Region	Oceania	#00FFFF
+Region	South America	#FFFF00
