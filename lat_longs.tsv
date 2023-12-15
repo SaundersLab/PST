@@ -2,13 +2,13 @@ location	Abbottabad	34.15	73.2167
 location	Altus, Oklahoma	34.6439	-99.3267
 location	Attarshisha	32.3927	71.2209
 location	Adisham	51.2415	1.1902
-location	Allonnes, Sarthe	47.9686	0.1606
+location	Allonnes	47.9686	0.1606
 location	Bloemfontein	-29.1000	26.2167
 location	Böhl-Iggelheim	49.3714	8.3086
 location	Boothby Graffoe	53.1228	-0.5281
 location	Borgloon	50.8022	5.3433
 location	Bedfordshire	52.0627	0.5292
-location	Bishop Burton	53.845	-0.4988
+location	Bishop Burton, East Yorkshire	53.845	-0.4988
 location	Böhl Bauch 10	49.384	8.2987
 location	Boston, Lincolnshire	52.9746	-0.0214
 location	Boothby Graffoe, Lincolnshire	53.1228	-0.5323
@@ -29,7 +29,7 @@ location	Castanet, Aveyron	44.2783	2.29
 location	Caythorpe, Lincolnshire	53.0212	-0.5993
 location	Chickasha, Oklahoma	35.0383	-97.9461
 location	Chelsworth	52.0950	0.8900
-location	Choryń	52.0406	16.7831
+location	Choryn	52.0406	16.7831
 location	Clarkton, North Carolina	34.4894	-78.6567
 location	Cimarron, Oklahoma	35.885	-97.6028
 location	Cirencester, Gloucestershire	51.719	-1.968
@@ -42,6 +42,7 @@ location	Detva	48.5572	19.4208
 location	Druelle	44.3444	2.4931
 location	Dunau	52.3551	9.5479
 location	Endicott, Washington	46.9289	-117.686
+location	Etzdorf	49.7556	11.3235
 location	Fowlmere	52.0830	0.0748
 location	Free State	-28.4541	26.7968
 location	Fulbourn, Cambridgeshire	52.184	0.2272
@@ -64,7 +65,7 @@ location	Hingste	52.8215	9.1857
 location	Hingste Inokluiert	52.8215	9.1857
 location	Hitchcock, Nebraska	40.1845	-101.0712
 location	Hottendorf	52.5305	11.5440
-location	Humbie	55.8544	-2.8674
+location	Humbie, East Lothian	55.8544	-2.8674
 location	Hutchinson, Kansas	38.0656	-97.9236
 location	Huttendorf	48.8008	7.64
 location	Ickleton	52.0700	0.1700
@@ -72,6 +73,7 @@ location	Jaroslawiec	54.5403	16.5454
 location	Jinshan, Gangu	34.817	105.4448
 location	Kalispell, Montana	48.2	-114.3167
 location	Keadby	53.5969	-0.7417
+location	Keisby, Lincolnshire	52.856	-0.455
 location	Kirchmatting	48.8128	12.6118
 location	Koksijde	51.1	2.65
 location	Kulumsa, Oromia	7.5468	39.2553
@@ -81,8 +83,7 @@ location	Lafayette, Indiana	40.4172	-86.8786
 location	Lansing, Michigan	42.7335	-84.5467
 location	Layer de la Haye	51.8430	0.8580
 location	Lethbridge, Alberta	49.6942	-112.8328
-location	Lincoln, New Zealand	-43.64	172.486
-location	Lincoln, England	53.2500	-0.5500
+location	Lincoln	-43.64	172.486
 location	Lincolnshire	52.9452	-0.1601
 location	Los Tilos	-33.5073	-70.73
 location	Loyat	47.99	-2.3833
@@ -111,7 +112,7 @@ location	Olomouc	49.5954	17.2519
 location	Osek	49.3184	13.9632
 location	Osterlen	55.5557	14.3416
 location	Othello, Washington	46.8236	-119.1672
-location	Osiek, Starogard County	53.7167	18.4833
+location	Osijek	45.555	18.6955
 location	Otley	53.9058	-1.6918
 location	Ozzano dell'Emilia	44.4500	11.4833
 location	Oxfordshire	51.7612	-1.2465
