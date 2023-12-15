@@ -42,6 +42,9 @@ Group	PstS2 v27	#008080
 Group	PstS5 v17	#1022FF
 Group	PstS6	#FBA52B
 Group	PstS9 v17	#14F624
+Group	Triticum aestivum	#FF7F00
+Group	Spelta	#FFFF00
+Group	Secale cereale	#0000FF
 Region	Africa	#FF7F00
 Region	Asia	#FF0000
 Region	Europe	#0000FF
